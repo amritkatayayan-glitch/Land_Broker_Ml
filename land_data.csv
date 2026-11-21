@@ -1,0 +1,2001 @@
+city,locality,land_type,area_sqft,road_width_ft,distance_from_center_km,near_highway_or_metro,water_electricity,corner_plot,price_lakh
+Delhi,Narela,Residential,1559,80,4.2,0,0,0,98.49
+Pune,Baner,Residential,617,80,29.0,0,1,0,97.07
+Pune,Kothrud,Commercial,582,60,34.0,0,0,1,134.81
+Gurugram,DLF Phase 3,Residential,3776,60,33.9,1,1,0,1178.48
+Gurugram,DLF Phase 3,Residential,1240,20,15.9,0,1,0,344.12
+Gurugram,Golf Course Road,Residential,5597,20,5.8,1,1,0,2492.09
+Gurugram,Manesar,Industrial,2027,30,5.8,1,1,0,106.09
+Delhi,Narela,Commercial,2023,40,11.3,1,1,0,210.26
+Pune,Kothrud,Residential,5163,12,11.0,0,1,0,858.39
+Gurugram,Sohna Road,Agricultural,1085,20,4.1,0,1,1,29.69
+Pune,Hinjewadi,Commercial,1464,30,11.3,0,1,1,216.09
+Gurugram,Golf Course Road,Agricultural,1429,60,34.0,0,1,0,121.5
+Delhi,Dwarka,Agricultural,564,30,11.4,0,1,0,20.99
+Gurugram,Manesar,Residential,1220,40,23.1,1,1,1,89.0
+Noida,Sector 150,Residential,2747,12,6.8,0,1,0,315.54
+Noida,Sector 62,Agricultural,1584,30,3.8,0,1,0,39.94
+Jaipur,Mansarovar,Residential,9037,20,15.9,1,0,0,466.43
+Noida,Greater Noida West,Residential,2581,60,23.4,0,0,1,115.35
+Pune,Hinjewadi,Residential,584,40,29.2,0,1,0,48.52
+Jaipur,Jagatpura,Residential,8396,80,2.5,0,0,0,466.34
+Pune,Kothrud,Agricultural,577,40,27.2,0,1,1,26.25
+Gurugram,Sohna Road,Agricultural,8320,20,29.3,1,1,0,161.3
+Noida,Sector 150,Industrial,1200,80,5.9,1,1,1,170.47
+Pune,Hinjewadi,Commercial,9146,60,7.8,0,1,0,1549.56
+Gurugram,DLF Phase 3,Agricultural,432,30,17.6,0,0,0,26.28
+Gurugram,DLF Phase 3,Commercial,552,40,5.8,0,0,0,249.25
+Lucknow,Indira Nagar,Residential,2439,60,4.7,0,0,0,140.61
+Lucknow,Sultanpur Road,Agricultural,3537,40,13.7,0,1,0,25.24
+Jaipur,Vaishali Nagar,Residential,9569,60,4.6,1,1,1,1118.64
+Noida,Sector 150,Residential,8397,80,10.7,1,1,1,1295.67
+Noida,Sector 62,Residential,1554,40,14.4,1,1,0,164.23
+Jaipur,Vaishali Nagar,Residential,5129,20,20.4,0,1,0,344.8
+Pune,Hinjewadi,Agricultural,650,12,4.4,0,0,0,12.73
+Jaipur,Ajmer Road,Commercial,2502,60,19.2,0,0,0,125.99
+Lucknow,Sultanpur Road,Residential,448,12,15.2,1,1,0,13.71
+Gurugram,Sohna Road,Commercial,980,20,32.2,0,1,0,131.43
+Gurugram,Manesar,Agricultural,2053,40,10.8,0,1,0,33.22
+Pune,Wagholi,Residential,2475,60,32.8,1,0,0,115.18
+Gurugram,Golf Course Road,Industrial,8556,80,21.1,1,1,1,3549.61
+Delhi,Saket,Residential,2842,40,28.2,0,1,0,735.53
+Lucknow,Gomti Nagar,Residential,1475,40,27.3,0,1,0,95.82
+Jaipur,Mansarovar,Residential,1863,20,6.0,0,1,0,128.8
+Noida,Greater Noida West,Agricultural,1195,60,13.8,0,1,0,17.75
+Noida,Sector 18,Commercial,610,12,24.3,1,1,0,152.58
+Pune,Baner,Residential,487,20,27.6,1,0,0,60.32
+Lucknow,Indira Nagar,Residential,2789,80,23.1,1,0,1,159.75
+Gurugram,DLF Phase 3,Industrial,5843,20,23.3,1,1,1,1229.34
+Pune,Kothrud,Residential,820,80,28.2,0,0,0,134.8
+Gurugram,DLF Phase 3,Residential,600,12,26.3,0,0,1,123.49
+Delhi,Dwarka,Residential,493,60,21.8,1,1,1,84.76
+Gurugram,Manesar,Residential,1124,12,34.3,0,0,0,43.95
+Gurugram,DLF Phase 3,Agricultural,2031,20,24.8,0,0,1,118.1
+Lucknow,Aliganj,Residential,556,12,10.5,1,1,0,30.28
+Pune,Baner,Residential,5495,20,11.8,1,1,0,997.5
+Delhi,Saket,Commercial,2059,60,23.2,1,0,0,827.93
+Jaipur,Jagatpura,Residential,9426,40,31.1,0,1,0,340.4
+Noida,Sector 150,Agricultural,1107,30,3.5,0,1,0,35.57
+Gurugram,DLF Phase 3,Residential,406,60,29.1,0,1,1,120.4
+Lucknow,Gomti Nagar,Residential,2198,80,27.3,1,1,0,174.24
+Pune,Wagholi,Residential,2713,20,6.6,1,0,0,124.85
+Noida,Sector 18,Agricultural,2672,12,14.3,1,0,0,115.05
+Pune,Hinjewadi,Residential,818,80,8.9,1,1,0,90.12
+Delhi,Dwarka,Residential,5548,80,23.1,0,0,1,704.98
+Lucknow,Sultanpur Road,Residential,8968,80,27.1,0,1,0,262.18
+Delhi,Narela,Residential,2012,30,4.6,1,0,0,110.35
+Delhi,Rohini,Residential,976,12,16.2,1,1,1,134.51
+Noida,Greater Noida West,Commercial,3686,80,17.2,0,0,0,270.78
+Jaipur,Ajmer Road,Agricultural,470,12,16.0,0,1,0,3.57
+Delhi,Rohini,Industrial,8723,60,5.2,1,0,0,1032.34
+Pune,Baner,Agricultural,952,30,3.9,0,0,0,38.5
+Noida,Sector 62,Residential,8296,12,24.0,0,0,0,507.42
+Gurugram,Golf Course Road,Residential,9219,20,30.2,1,1,0,3114.5
+Lucknow,Aliganj,Agricultural,2558,60,30.0,1,0,0,24.97
+Gurugram,Sohna Road,Residential,1875,80,3.9,1,1,0,296.93
+Jaipur,Mansarovar,Residential,2029,12,34.9,0,1,0,87.67
+Noida,Sector 150,Residential,548,30,7.9,1,1,0,78.01
+Gurugram,Sohna Road,Agricultural,9073,60,10.7,0,1,0,253.0
+Noida,Greater Noida West,Industrial,927,40,11.2,1,1,1,54.33
+Delhi,Saket,Industrial,1975,60,17.2,0,1,0,472.16
+Noida,Sector 18,Residential,552,40,23.2,0,1,0,101.84
+Pune,Kothrud,Residential,854,12,3.2,0,1,0,151.81
+Pune,Hinjewadi,Residential,3742,12,8.0,1,1,0,364.24
+Noida,Sector 62,Agricultural,600,12,17.6,1,1,0,13.54
+Jaipur,Mansarovar,Residential,1991,20,24.2,1,1,0,106.73
+Gurugram,Sohna Road,Industrial,545,12,5.7,0,1,1,47.86
+Delhi,Dwarka,Commercial,1520,20,21.1,0,1,0,342.39
+Gurugram,DLF Phase 3,Industrial,8557,80,32.2,0,1,0,2101.25
+Lucknow,Indira Nagar,Residential,2040,60,8.4,0,1,1,146.11
+Lucknow,Aliganj,Residential,3762,12,25.1,0,1,0,166.52
+Noida,Sector 62,Residential,2523,60,18.2,0,1,1,304.66
+Jaipur,Jagatpura,Residential,2152,80,19.2,0,1,1,109.33
+Delhi,Rohini,Commercial,8132,80,21.3,1,0,0,1579.93
+Noida,Greater Noida West,Residential,3762,60,20.3,0,0,0,169.5
+Pune,Hinjewadi,Industrial,1177,40,4.2,0,1,0,101.15
+Gurugram,Golf Course Road,Residential,2893,20,32.0,1,1,0,951.31
+Jaipur,Mansarovar,Commercial,470,60,27.6,0,1,0,42.74
+Pune,Kothrud,Residential,471,20,1.8,0,1,0,88.9
+Jaipur,Mansarovar,Residential,1219,40,14.9,0,0,0,69.32
+Gurugram,Sohna Road,Residential,3357,12,24.3,1,0,0,226.59
+Gurugram,Golf Course Road,Agricultural,1128,20,7.3,0,1,0,114.7
+Delhi,Rohini,Agricultural,899,40,4.8,1,1,0,36.13
+Lucknow,Indira Nagar,Agricultural,2944,80,3.4,1,1,0,50.74
+Lucknow,Indira Nagar,Commercial,1399,40,9.6,1,0,0,121.63
+Lucknow,Aliganj,Residential,5680,30,27.3,1,0,1,236.11
+Lucknow,Gomti Nagar,Residential,561,80,15.1,0,1,0,51.36
+Jaipur,Ajmer Road,Residential,1899,40,9.3,1,0,0,66.74
+Noida,Greater Noida West,Residential,1510,40,15.8,1,1,0,92.6
+Pune,Kothrud,Residential,1129,40,9.6,1,1,0,247.91
+Pune,Wagholi,Residential,9057,30,7.4,0,0,0,364.09
+Pune,Hinjewadi,Agricultural,2457,30,12.6,0,1,0,58.11
+Lucknow,Gomti Nagar,Agricultural,2055,30,1.1,0,1,1,46.35
+Lucknow,Gomti Nagar,Residential,3522,40,32.3,1,1,0,222.69
+Jaipur,Jagatpura,Residential,2615,80,7.0,0,0,1,126.49
+Noida,Sector 18,Industrial,905,80,23.4,1,0,0,146.53
+Gurugram,Sohna Road,Commercial,601,60,31.8,0,1,0,83.76
+Gurugram,Sohna Road,Residential,5580,12,23.3,0,1,0,475.46
+Delhi,Narela,Agricultural,3720,20,5.4,1,1,0,59.95
+Pune,Kothrud,Residential,9362,40,33.4,0,1,0,1382.45
+Lucknow,Indira Nagar,Residential,1356,60,14.6,0,1,0,89.0
+Pune,Kothrud,Residential,5389,40,22.5,1,1,0,971.52
+Noida,Sector 18,Agricultural,473,60,26.9,0,1,0,21.49
+Jaipur,Mansarovar,Residential,1472,40,8.4,0,0,1,89.34
+Delhi,Rohini,Industrial,556,80,27.3,1,1,0,61.62
+Pune,Hinjewadi,Residential,1629,40,34.3,1,1,0,135.39
+Gurugram,Golf Course Road,Commercial,1599,12,7.0,0,1,0,1034.66
+Lucknow,Sultanpur Road,Agricultural,451,80,4.2,0,0,0,4.2
+Noida,Sector 150,Residential,1164,60,27.8,0,0,0,112.59
+Noida,Greater Noida West,Agricultural,647,30,5.9,0,1,1,9.78
+Noida,Sector 62,Residential,888,12,27.3,1,1,0,75.78
+Delhi,Dwarka,Agricultural,907,60,28.9,1,1,0,34.07
+Noida,Sector 18,Commercial,1985,60,13.5,1,1,0,749.25
+Lucknow,Gomti Nagar,Residential,638,20,14.5,0,1,0,45.78
+Pune,Baner,Agricultural,9671,80,7.5,1,1,0,488.44
+Delhi,Saket,Commercial,1250,60,1.9,1,1,0,789.82
+Noida,Sector 150,Industrial,607,60,14.1,1,1,0,71.22
+Jaipur,Jagatpura,Residential,1130,12,31.4,0,1,0,43.24
+Lucknow,Aliganj,Agricultural,1414,12,20.9,1,1,0,16.03
+Gurugram,DLF Phase 3,Residential,1853,20,30.2,1,1,1,598.4
+Gurugram,Sohna Road,Commercial,1616,20,32.6,1,1,1,195.6
+Gurugram,DLF Phase 3,Agricultural,9575,60,18.9,0,1,0,784.64
+Gurugram,Golf Course Road,Commercial,8406,60,34.3,0,1,0,4468.92
+Lucknow,Aliganj,Commercial,1446,12,7.6,1,0,0,120.71
+Lucknow,Aliganj,Residential,5860,40,32.7,1,1,0,290.03
+Gurugram,Sohna Road,Commercial,1156,40,12.8,1,1,1,234.35
+Pune,Baner,Residential,3783,40,9.8,0,0,0,578.22
+Pune,Hinjewadi,Agricultural,5857,30,20.7,1,1,0,135.71
+Delhi,Dwarka,Industrial,599,80,16.8,1,0,0,75.37
+Pune,Baner,Commercial,419,20,27.3,0,1,0,82.93
+Lucknow,Indira Nagar,Residential,9680,40,13.7,1,0,0,504.9
+Jaipur,Ajmer Road,Commercial,8765,30,15.2,1,0,0,458.2
+Lucknow,Aliganj,Agricultural,451,12,16.8,0,1,0,5.24
+Lucknow,Sultanpur Road,Residential,2008,30,8.3,1,1,0,66.72
+Jaipur,Ajmer Road,Residential,985,60,3.7,0,0,0,35.6
+Delhi,Rohini,Residential,988,40,33.6,1,1,0,114.67
+Gurugram,DLF Phase 3,Agricultural,3324,80,3.0,0,1,0,324.05
+Pune,Wagholi,Residential,3285,30,33.9,1,1,0,133.9
+Noida,Sector 62,Agricultural,639,60,34.2,0,0,1,12.76
+Noida,Greater Noida West,Commercial,9849,80,25.0,0,1,0,737.89
+Noida,Sector 150,Residential,3801,12,16.2,0,1,1,411.93
+Pune,Hinjewadi,Agricultural,5417,20,32.8,0,1,1,97.04
+Pune,Hinjewadi,Residential,649,40,19.3,0,1,0,67.03
+Jaipur,Ajmer Road,Agricultural,550,30,8.7,0,0,0,4.4
+Delhi,Saket,Residential,2782,20,23.9,0,1,0,706.26
+Lucknow,Indira Nagar,Residential,5397,12,18.7,0,1,0,238.73
+Jaipur,Mansarovar,Residential,9167,12,8.8,0,1,0,578.19
+Gurugram,Golf Course Road,Residential,3831,12,23.0,0,1,0,1389.17
+Lucknow,Sultanpur Road,Residential,1551,40,33.7,1,1,0,43.29
+Delhi,Saket,Residential,2098,20,5.5,1,1,0,677.58
+Lucknow,Aliganj,Residential,418,80,7.7,1,1,0,30.95
+Noida,Greater Noida West,Residential,3584,30,6.0,1,1,1,217.83
+Lucknow,Sultanpur Road,Residential,1584,30,26.4,0,1,0,40.64
+Gurugram,Sohna Road,Residential,880,30,9.2,0,1,0,90.58
+Delhi,Rohini,Residential,5114,30,26.9,0,1,0,481.77
+Jaipur,Ajmer Road,Commercial,1622,80,27.9,0,1,1,87.88
+Gurugram,Sohna Road,Residential,1515,40,29.4,1,1,0,126.86
+Lucknow,Indira Nagar,Agricultural,577,80,14.7,1,1,0,9.57
+Pune,Wagholi,Residential,845,20,3.0,0,1,0,44.72
+Lucknow,Gomti Nagar,Residential,857,60,32.1,1,1,0,58.17
+Pune,Baner,Agricultural,1971,20,15.7,1,0,0,70.75
+Lucknow,Indira Nagar,Residential,2738,12,34.8,1,1,0,125.44
+Lucknow,Gomti Nagar,Residential,1169,60,7.4,1,1,0,101.06
+Jaipur,Jagatpura,Commercial,589,80,14.7,0,1,0,51.9
+Pune,Hinjewadi,Residential,562,20,16.8,1,0,0,44.49
+Jaipur,Mansarovar,Residential,556,20,33.1,0,1,0,26.96
+Noida,Sector 62,Residential,3803,40,8.2,0,0,0,370.82
+Jaipur,Vaishali Nagar,Agricultural,2047,20,26.8,1,0,0,27.17
+Pune,Baner,Agricultural,629,40,28.9,0,1,1,21.98
+Noida,Greater Noida West,Commercial,1958,40,27.8,0,1,0,138.51
+Noida,Greater Noida West,Residential,1310,60,25.5,0,0,0,55.94
+Jaipur,Mansarovar,Agricultural,884,12,30.8,1,0,0,8.84
+Gurugram,Golf Course Road,Residential,870,60,21.6,0,0,1,287.93
+Pune,Wagholi,Commercial,2459,30,12.8,0,1,0,211.98
+Pune,Hinjewadi,Industrial,2146,20,26.4,0,1,0,127.39
+Lucknow,Gomti Nagar,Residential,1637,12,25.1,0,1,0,106.86
+Delhi,Rohini,Commercial,1293,20,28.6,1,1,1,235.92
+Noida,Sector 18,Agricultural,5042,20,8.2,1,1,1,295.87
+Delhi,Dwarka,Residential,2032,60,27.3,0,0,0,234.44
+Pune,Wagholi,Residential,3576,30,6.8,0,1,1,221.74
+Lucknow,Indira Nagar,Residential,9641,60,3.6,0,1,0,618.2
+Jaipur,Ajmer Road,Residential,8621,40,19.8,0,1,0,291.64
+Noida,Greater Noida West,Commercial,1829,60,16.2,0,1,0,154.0
+Lucknow,Sultanpur Road,Residential,5449,60,26.9,0,1,0,158.88
+Pune,Baner,Commercial,2828,40,3.4,0,1,0,877.07
+Jaipur,Mansarovar,Agricultural,1872,30,8.4,1,1,0,32.66
+Jaipur,Jagatpura,Residential,837,40,33.0,1,1,0,34.88
+Noida,Sector 150,Industrial,648,20,18.0,0,0,0,40.58
+Lucknow,Aliganj,Residential,2744,20,34.8,0,1,0,90.88
+Gurugram,Golf Course Road,Residential,1279,40,11.3,0,0,0,446.95
+Jaipur,Ajmer Road,Residential,454,20,20.1,0,1,0,16.05
+Lucknow,Aliganj,Residential,1875,12,29.9,0,1,0,68.9
+Noida,Sector 62,Residential,618,20,10.4,1,1,0,65.61
+Delhi,Narela,Residential,1977,40,16.1,1,0,0,106.33
+Jaipur,Vaishali Nagar,Agricultural,1116,40,7.9,0,1,0,22.21
+Pune,Baner,Residential,8747,30,8.6,1,1,0,1611.36
+Noida,Sector 150,Commercial,949,40,28.6,0,1,0,140.94
+Lucknow,Gomti Nagar,Residential,5351,20,15.1,1,0,0,349.16
+Jaipur,Ajmer Road,Residential,1308,80,1.4,0,0,0,51.63
+Noida,Greater Noida West,Residential,460,80,21.9,0,1,1,25.27
+Lucknow,Gomti Nagar,Industrial,596,80,18.3,1,0,0,38.87
+Pune,Hinjewadi,Residential,3918,30,26.0,1,0,0,267.93
+Lucknow,Gomti Nagar,Commercial,1427,80,24.6,0,1,1,176.49
+Pune,Baner,Residential,1576,30,10.7,1,0,0,234.07
+Delhi,Rohini,Agricultural,830,40,31.1,0,1,1,23.1
+Delhi,Dwarka,Residential,1482,12,15.1,0,1,1,227.06
+Noida,Sector 150,Commercial,3249,12,9.4,0,1,0,558.85
+Pune,Wagholi,Commercial,601,12,12.7,0,1,0,48.13
+Noida,Sector 62,Commercial,861,60,27.8,0,0,0,106.91
+Gurugram,Sohna Road,Commercial,1934,12,34.6,1,1,0,248.63
+Delhi,Rohini,Agricultural,833,30,2.8,0,1,0,28.7
+Jaipur,Mansarovar,Agricultural,3939,40,9.8,0,0,0,56.26
+Gurugram,Golf Course Road,Residential,1314,40,7.3,1,1,0,652.89
+Lucknow,Sultanpur Road,Residential,1905,60,13.1,1,1,0,66.3
+Delhi,Narela,Commercial,972,20,12.7,1,1,1,116.72
+Lucknow,Sultanpur Road,Residential,978,60,21.6,0,1,0,34.28
+Jaipur,Vaishali Nagar,Commercial,5052,40,21.8,1,0,0,523.65
+Pune,Hinjewadi,Residential,1087,20,10.5,1,1,0,95.6
+Gurugram,Sohna Road,Residential,2539,12,26.7,0,0,0,162.49
+Pune,Baner,Industrial,480,60,31.4,0,0,0,52.11
+Delhi,Narela,Residential,9486,80,4.2,0,1,0,658.73
+Lucknow,Sultanpur Road,Agricultural,1146,12,15.1,1,1,0,9.15
+Pune,Baner,Agricultural,647,20,15.5,1,1,0,27.82
+Gurugram,Manesar,Residential,3647,30,15.1,0,1,0,211.19
+Gurugram,Golf Course Road,Agricultural,603,12,6.8,0,1,0,57.72
+Pune,Hinjewadi,Commercial,1094,60,21.3,0,1,0,166.54
+Delhi,Saket,Residential,1294,80,7.3,1,1,0,500.24
+Gurugram,DLF Phase 3,Residential,3567,80,30.7,0,0,1,1119.24
+Jaipur,Ajmer Road,Agricultural,1165,20,16.4,0,1,0,9.81
+Gurugram,Manesar,Residential,2061,12,12.5,0,1,0,105.99
+Gurugram,Golf Course Road,Residential,5257,20,19.3,1,1,0,1967.42
+Jaipur,Mansarovar,Residential,2768,20,14.2,1,1,0,177.39
+Noida,Greater Noida West,Agricultural,973,40,28.0,1,1,0,12.92
+Lucknow,Aliganj,Residential,1387,40,26.6,0,1,0,64.42
+Pune,Wagholi,Industrial,2147,80,2.2,0,1,0,119.36
+Gurugram,Sohna Road,Residential,5620,30,7.9,1,0,0,495.69
+Noida,Sector 150,Agricultural,613,60,11.5,1,1,0,20.98
+Pune,Hinjewadi,Industrial,9461,80,17.0,0,1,0,795.51
+Jaipur,Mansarovar,Commercial,2967,80,3.7,1,1,0,438.67
+Noida,Sector 62,Industrial,5852,30,2.1,1,1,1,578.47
+Gurugram,Golf Course Road,Residential,608,20,17.9,0,1,0,222.92
+Lucknow,Aliganj,Commercial,876,80,20.3,1,1,1,100.96
+Pune,Baner,Industrial,482,12,29.4,1,1,1,54.74
+Lucknow,Gomti Nagar,Commercial,3812,30,17.6,0,0,1,388.4
+Pune,Hinjewadi,Residential,464,80,24.3,1,1,0,49.96
+Noida,Sector 150,Residential,2565,20,13.4,1,0,0,260.63
+Gurugram,Manesar,Agricultural,418,20,1.3,1,0,0,6.92
+Gurugram,Manesar,Residential,5676,40,13.2,1,1,0,382.84
+Gurugram,DLF Phase 3,Residential,1223,40,27.9,0,0,0,247.34
+Jaipur,Jagatpura,Residential,5866,20,24.2,0,1,0,256.97
+Gurugram,DLF Phase 3,Residential,8221,40,32.7,1,1,0,2451.55
+Delhi,Narela,Industrial,623,12,22.5,0,0,0,18.48
+Gurugram,Sohna Road,Commercial,610,80,23.6,0,0,0,91.63
+Delhi,Dwarka,Commercial,1217,30,2.7,0,1,0,303.71
+Jaipur,Jagatpura,Commercial,922,60,19.3,0,1,0,70.62
+Pune,Kothrud,Commercial,1222,12,8.5,0,0,0,271.8
+Noida,Sector 150,Residential,5641,80,18.7,1,1,1,868.62
+Delhi,Rohini,Agricultural,1136,40,4.6,1,0,0,38.37
+Lucknow,Indira Nagar,Residential,9826,40,14.7,1,0,0,532.6
+Pune,Wagholi,Residential,3598,60,2.2,0,0,0,186.45
+Pune,Hinjewadi,Agricultural,2717,80,22.8,0,1,1,63.05
+Lucknow,Gomti Nagar,Agricultural,1134,12,19.7,1,1,0,20.31
+Lucknow,Sultanpur Road,Agricultural,1624,12,31.7,0,1,0,9.52
+Jaipur,Jagatpura,Residential,457,80,27.6,1,1,0,24.2
+Delhi,Rohini,Residential,5429,20,13.8,0,1,0,613.62
+Jaipur,Jagatpura,Residential,654,40,10.7,0,1,0,34.58
+Pune,Hinjewadi,Commercial,2833,60,18.6,0,1,1,512.11
+Gurugram,Manesar,Agricultural,1213,12,26.5,0,1,0,14.85
+Lucknow,Indira Nagar,Residential,543,80,29.4,1,1,1,35.37
+Pune,Baner,Residential,882,30,27.1,0,1,1,125.82
+Lucknow,Indira Nagar,Residential,1306,30,33.3,0,1,0,58.56
+Gurugram,DLF Phase 3,Residential,1419,40,23.6,1,0,0,333.87
+Noida,Sector 18,Residential,563,30,30.3,0,0,0,79.78
+Gurugram,DLF Phase 3,Agricultural,8860,40,20.1,1,1,0,728.1
+Jaipur,Mansarovar,Agricultural,2008,40,15.6,0,1,0,29.43
+Lucknow,Sultanpur Road,Industrial,9653,40,10.9,0,1,0,254.15
+Noida,Sector 18,Agricultural,637,30,26.3,0,0,0,19.41
+Jaipur,Vaishali Nagar,Residential,1175,80,14.4,1,1,0,117.29
+Jaipur,Vaishali Nagar,Commercial,1227,30,16.2,1,1,0,161.99
+Delhi,Rohini,Agricultural,2614,60,28.2,0,1,0,77.98
+Lucknow,Sultanpur Road,Residential,3423,60,18.4,0,1,0,117.4
+Gurugram,Golf Course Road,Residential,4894,60,14.4,0,1,0,2034.5
+Lucknow,Indira Nagar,Industrial,485,30,8.8,1,1,0,23.91
+Noida,Sector 62,Residential,425,80,18.1,0,1,0,47.37
+Pune,Kothrud,Residential,2520,30,26.2,0,1,0,371.79
+Pune,Hinjewadi,Residential,580,40,10.2,0,1,0,63.64
+Delhi,Saket,Residential,1121,80,27.0,1,0,0,315.48
+Lucknow,Aliganj,Residential,9403,20,29.5,1,0,0,378.63
+Jaipur,Jagatpura,Commercial,2061,40,32.2,1,1,1,158.62
+Jaipur,Mansarovar,Commercial,494,80,6.5,0,0,1,56.9
+Jaipur,Mansarovar,Commercial,1903,40,5.6,1,1,0,249.05
+Noida,Sector 62,Commercial,907,60,32.8,1,0,1,117.82
+Noida,Sector 18,Agricultural,461,40,13.0,0,0,0,20.77
+Jaipur,Vaishali Nagar,Commercial,2562,12,12.2,0,1,1,308.13
+Noida,Sector 18,Commercial,1358,12,20.0,1,1,0,397.46
+Lucknow,Aliganj,Commercial,2946,12,34.3,0,1,0,166.31
+Jaipur,Jagatpura,Residential,5359,30,29.1,0,1,0,195.03
+Jaipur,Mansarovar,Residential,591,60,15.9,1,1,0,46.96
+Jaipur,Vaishali Nagar,Industrial,3513,30,15.7,0,1,0,197.36
+Gurugram,Manesar,Residential,594,60,15.1,0,1,1,42.44
+Pune,Hinjewadi,Residential,2932,40,2.2,0,1,1,301.61
+Pune,Hinjewadi,Residential,603,30,1.0,1,1,0,73.01
+Gurugram,Manesar,Residential,1632,12,4.7,1,1,0,124.73
+Jaipur,Jagatpura,Agricultural,3941,12,7.9,0,1,0,45.03
+Noida,Sector 62,Agricultural,1544,30,33.9,1,0,0,26.06
+Pune,Hinjewadi,Commercial,594,60,6.3,1,0,1,100.71
+Lucknow,Indira Nagar,Residential,5588,12,3.0,0,1,0,370.59
+Gurugram,Manesar,Commercial,2025,20,31.0,0,1,0,145.95
+Pune,Hinjewadi,Residential,566,80,28.7,1,1,0,61.85
+Jaipur,Ajmer Road,Agricultural,2512,80,27.4,1,0,0,20.44
+Lucknow,Gomti Nagar,Residential,1299,20,28.1,0,1,0,76.57
+Pune,Wagholi,Residential,5479,20,7.2,0,1,1,314.19
+Pune,Wagholi,Agricultural,625,40,25.3,0,1,0,8.25
+Lucknow,Sultanpur Road,Residential,3283,20,19.7,1,1,0,94.12
+Delhi,Rohini,Commercial,5370,40,23.3,1,0,1,1049.44
+Jaipur,Jagatpura,Residential,825,60,27.3,0,1,1,39.1
+Noida,Sector 150,Agricultural,1559,60,10.5,0,0,1,47.94
+Gurugram,DLF Phase 3,Residential,1193,60,20.4,1,1,0,470.94
+Delhi,Saket,Residential,1369,60,9.6,1,0,0,482.68
+Pune,Hinjewadi,Residential,1951,40,32.4,0,1,0,137.95
+Noida,Sector 150,Commercial,2564,80,31.1,1,1,0,455.36
+Pune,Baner,Commercial,565,12,10.2,0,1,0,143.35
+Noida,Sector 150,Residential,8427,30,25.9,0,1,0,832.85
+Jaipur,Jagatpura,Agricultural,435,80,21.8,0,1,0,6.36
+Noida,Greater Noida West,Industrial,5201,60,8.0,0,1,0,213.93
+Gurugram,Golf Course Road,Residential,8250,12,14.3,1,1,0,2886.15
+Delhi,Narela,Industrial,931,40,12.3,0,1,0,44.91
+Lucknow,Aliganj,Industrial,1980,40,22.5,1,1,0,82.05
+Jaipur,Vaishali Nagar,Residential,5350,20,7.5,1,1,1,459.55
+Lucknow,Indira Nagar,Residential,827,80,2.5,0,0,0,54.08
+Delhi,Narela,Residential,420,20,34.9,1,0,0,15.2
+Delhi,Saket,Agricultural,810,20,21.3,1,1,1,56.29
+Delhi,Dwarka,Residential,3464,80,34.4,0,1,0,492.77
+Delhi,Saket,Residential,411,20,21.5,0,1,0,108.89
+Gurugram,Manesar,Residential,583,80,1.1,0,0,0,38.56
+Lucknow,Gomti Nagar,Residential,9408,12,30.4,1,1,1,576.62
+Noida,Greater Noida West,Commercial,879,40,19.9,1,1,0,77.39
+Noida,Sector 18,Agricultural,3908,40,15.2,1,1,1,195.65
+Jaipur,Mansarovar,Industrial,9162,60,6.0,0,1,1,565.63
+Delhi,Rohini,Residential,2103,60,24.6,1,0,0,255.36
+Noida,Greater Noida West,Residential,553,30,18.6,1,1,1,32.69
+Noida,Sector 150,Residential,3886,20,20.1,0,1,1,431.84
+Noida,Sector 150,Agricultural,2685,80,34.0,0,1,0,72.39
+Noida,Sector 18,Residential,5470,20,2.5,1,1,1,1189.53
+Pune,Baner,Residential,1579,20,33.4,1,0,0,182.75
+Lucknow,Sultanpur Road,Industrial,1993,60,19.1,1,1,0,58.33
+Delhi,Rohini,Residential,616,20,22.4,0,1,0,71.45
+Jaipur,Jagatpura,Commercial,1994,30,33.9,0,1,0,117.41
+Delhi,Narela,Residential,1649,20,25.4,1,1,1,99.49
+Noida,Sector 62,Agricultural,5449,80,22.0,1,1,0,164.54
+Delhi,Dwarka,Residential,1184,12,25.1,0,1,0,140.93
+Delhi,Narela,Commercial,2177,20,10.3,1,1,0,201.88
+Gurugram,Manesar,Agricultural,5422,20,12.6,0,1,1,82.51
+Gurugram,Manesar,Industrial,632,40,14.4,1,1,1,39.92
+Noida,Sector 150,Residential,1992,40,24.1,0,1,0,219.75
+Pune,Wagholi,Residential,2804,20,23.0,1,1,0,130.48
+Pune,Kothrud,Residential,1181,40,1.3,0,1,0,256.41
+Delhi,Narela,Agricultural,2539,40,24.3,0,0,0,27.61
+Pune,Hinjewadi,Commercial,815,80,26.2,0,1,1,131.49
+Gurugram,Manesar,Residential,2009,80,31.8,0,0,0,102.09
+Pune,Wagholi,Residential,3336,40,18.4,1,1,0,164.65
+Delhi,Narela,Residential,482,80,12.6,0,1,1,36.44
+Lucknow,Gomti Nagar,Agricultural,2873,80,20.1,0,0,0,52.13
+Delhi,Saket,Residential,1352,20,21.3,1,1,1,369.64
+Delhi,Narela,Residential,473,60,12.2,0,1,0,30.61
+Delhi,Dwarka,Agricultural,2936,60,31.7,1,0,0,84.97
+Gurugram,DLF Phase 3,Residential,3810,60,22.1,1,1,0,1224.49
+Jaipur,Mansarovar,Commercial,1515,30,15.7,0,0,0,130.42
+Noida,Sector 150,Industrial,455,80,24.8,0,1,0,45.31
+Jaipur,Mansarovar,Commercial,9640,12,21.7,1,0,0,731.92
+Gurugram,Sohna Road,Agricultural,9126,30,1.0,0,1,0,283.32
+Gurugram,Golf Course Road,Commercial,1637,20,25.0,0,0,0,739.68
+Pune,Wagholi,Residential,473,40,18.7,0,1,0,24.23
+Pune,Baner,Residential,9607,12,17.5,1,1,0,1552.07
+Jaipur,Jagatpura,Industrial,2749,20,6.3,1,0,0,97.55
+Gurugram,DLF Phase 3,Residential,2689,30,34.9,1,0,0,630.14
+Noida,Sector 150,Commercial,953,20,17.9,0,1,0,169.47
+Jaipur,Jagatpura,Agricultural,5911,20,28.6,0,1,0,54.17
+Noida,Sector 18,Residential,890,20,12.0,1,0,0,160.27
+Delhi,Dwarka,Industrial,2646,60,25.6,0,0,0,275.72
+Lucknow,Indira Nagar,Residential,1448,60,28.4,1,1,0,87.04
+Noida,Sector 150,Residential,900,12,8.5,0,1,1,95.73
+Jaipur,Vaishali Nagar,Residential,1158,40,21.9,0,1,0,91.61
+Gurugram,DLF Phase 3,Residential,921,80,10.4,0,0,0,307.37
+Lucknow,Indira Nagar,Commercial,8441,40,4.6,0,1,0,798.18
+Noida,Sector 62,Agricultural,477,20,19.2,1,1,0,11.1
+Gurugram,DLF Phase 3,Industrial,880,30,9.4,0,1,0,234.14
+Jaipur,Vaishali Nagar,Residential,5031,12,15.2,0,1,0,347.52
+Gurugram,Golf Course Road,Commercial,1180,20,8.2,1,1,0,923.5
+Pune,Wagholi,Residential,476,30,30.9,1,1,0,21.76
+Delhi,Saket,Residential,8976,30,7.3,1,1,0,3167.94
+Gurugram,Sohna Road,Residential,826,40,19.4,0,1,0,76.44
+Gurugram,DLF Phase 3,Residential,3415,80,20.5,0,1,1,1197.24
+Noida,Greater Noida West,Residential,5797,60,26.8,0,0,0,253.44
+Gurugram,Manesar,Agricultural,5373,80,22.7,0,0,0,79.71
+Lucknow,Indira Nagar,Agricultural,2813,20,26.7,0,0,0,30.02
+Pune,Hinjewadi,Agricultural,940,20,28.1,0,1,1,19.25
+Lucknow,Sultanpur Road,Residential,570,60,30.8,1,1,1,18.8
+Lucknow,Aliganj,Industrial,2615,30,9.9,1,0,1,96.7
+Gurugram,Sohna Road,Residential,1094,20,27.9,0,1,0,88.22
+Jaipur,Ajmer Road,Agricultural,1595,60,27.9,0,1,1,14.38
+Delhi,Narela,Residential,1629,80,8.7,0,0,0,98.27
+Pune,Baner,Commercial,434,20,1.8,1,1,0,134.23
+Gurugram,Golf Course Road,Residential,406,20,8.0,1,1,1,194.64
+Gurugram,Manesar,Commercial,2861,80,20.3,1,1,1,375.36
+Noida,Sector 150,Residential,466,20,29.6,0,1,0,41.29
+Jaipur,Jagatpura,Commercial,869,20,32.8,0,1,0,48.55
+Jaipur,Mansarovar,Residential,466,30,2.4,0,1,0,31.9
+Jaipur,Jagatpura,Commercial,450,80,25.9,0,1,0,36.76
+Jaipur,Mansarovar,Residential,5512,30,8.5,0,1,0,335.33
+Delhi,Rohini,Residential,5231,60,33.3,1,1,0,562.21
+Lucknow,Aliganj,Residential,4980,20,5.1,0,1,1,301.92
+Delhi,Dwarka,Residential,1299,60,25.2,0,0,1,149.7
+Delhi,Narela,Agricultural,1392,20,23.6,0,1,0,14.24
+Lucknow,Aliganj,Residential,5067,12,5.9,0,1,0,268.42
+Delhi,Narela,Agricultural,2127,40,18.4,0,0,0,24.77
+Noida,Sector 150,Commercial,9288,40,15.6,1,0,0,1526.46
+Delhi,Dwarka,Commercial,959,40,5.7,0,1,0,247.93
+Lucknow,Gomti Nagar,Residential,435,20,23.1,0,1,1,29.98
+Lucknow,Gomti Nagar,Commercial,5812,20,8.1,1,0,0,626.7
+Gurugram,Golf Course Road,Agricultural,3289,60,21.2,0,0,1,298.62
+Gurugram,Sohna Road,Residential,572,60,12.7,1,1,1,69.15
+Delhi,Dwarka,Agricultural,2008,12,7.7,1,1,1,82.61
+Lucknow,Aliganj,Commercial,1185,12,20.8,1,1,1,101.33
+Delhi,Rohini,Agricultural,1643,80,15.4,1,1,0,67.16
+Lucknow,Gomti Nagar,Residential,3369,30,25.3,1,0,0,189.76
+Jaipur,Vaishali Nagar,Residential,3356,12,21.8,1,1,0,232.05
+Gurugram,Manesar,Commercial,2674,20,4.0,0,1,1,272.6
+Gurugram,Golf Course Road,Industrial,927,80,23.5,0,0,0,290.3
+Lucknow,Sultanpur Road,Commercial,5284,12,11.7,0,1,0,209.33
+Jaipur,Ajmer Road,Residential,2689,80,9.8,1,1,0,115.1
+Gurugram,Golf Course Road,Commercial,593,40,29.2,0,1,0,320.6
+Gurugram,Golf Course Road,Agricultural,3356,60,20.9,1,0,0,342.92
+Lucknow,Indira Nagar,Residential,3705,30,15.3,1,1,0,216.02
+Gurugram,Manesar,Residential,8765,30,10.3,0,1,0,504.58
+Noida,Greater Noida West,Commercial,561,12,4.4,0,0,1,43.3
+Noida,Sector 150,Commercial,622,40,31.8,1,1,0,112.47
+Noida,Sector 18,Residential,9410,60,32.1,0,1,0,1487.03
+Jaipur,Jagatpura,Industrial,1221,20,30.4,1,1,0,40.92
+Jaipur,Ajmer Road,Residential,1395,80,18.6,0,0,0,54.99
+Lucknow,Sultanpur Road,Residential,601,40,1.7,0,0,0,18.4
+Jaipur,Mansarovar,Commercial,3515,12,17.1,1,1,0,344.9
+Delhi,Rohini,Residential,1481,40,17.1,0,1,0,202.45
+Lucknow,Aliganj,Residential,2581,40,30.2,1,1,0,122.32
+Pune,Baner,Commercial,2949,30,25.0,0,1,0,652.02
+Gurugram,Manesar,Agricultural,9717,40,25.7,1,1,0,140.4
+Pune,Kothrud,Residential,8225,12,17.8,1,1,0,1416.46
+Pune,Baner,Commercial,9692,12,7.0,1,1,0,2288.15
+Delhi,Saket,Industrial,8442,60,3.1,0,1,0,2238.09
+Delhi,Rohini,Residential,1874,40,24.1,1,0,0,217.12
+Noida,Sector 62,Residential,1415,12,30.7,0,1,0,104.88
+Lucknow,Indira Nagar,Residential,1581,60,3.3,1,1,0,119.96
+Jaipur,Jagatpura,Industrial,8957,60,18.3,0,1,0,331.71
+Pune,Hinjewadi,Agricultural,836,30,7.3,0,0,1,19.19
+Jaipur,Mansarovar,Agricultural,9826,20,31.2,1,0,0,106.59
+Noida,Sector 150,Agricultural,2102,60,34.9,0,0,0,42.45
+Pune,Hinjewadi,Residential,8620,80,24.8,1,1,0,893.63
+Delhi,Narela,Residential,8489,80,34.8,0,1,1,430.63
+Lucknow,Sultanpur Road,Agricultural,1483,30,21.0,0,1,0,10.87
+Noida,Sector 18,Residential,3330,12,19.8,1,0,0,499.7
+Pune,Kothrud,Residential,3242,60,22.1,0,0,0,471.8
+Jaipur,Ajmer Road,Commercial,410,40,7.9,0,1,0,25.17
+Noida,Sector 18,Residential,2466,80,17.1,0,1,1,560.02
+Lucknow,Sultanpur Road,Agricultural,4994,12,20.3,1,1,0,35.66
+Gurugram,Golf Course Road,Commercial,1404,60,3.3,0,1,0,966.57
+Pune,Kothrud,Residential,2830,30,9.3,0,1,0,494.18
+Gurugram,Sohna Road,Commercial,1479,12,10.7,1,1,1,240.32
+Noida,Sector 62,Industrial,3885,20,1.9,0,1,0,344.94
+Delhi,Narela,Agricultural,1861,20,25.5,0,1,0,22.55
+Noida,Greater Noida West,Residential,1872,30,26.7,1,0,0,85.22
+Jaipur,Vaishali Nagar,Residential,3668,30,32.3,1,0,1,248.61
+Jaipur,Vaishali Nagar,Industrial,856,12,27.4,0,1,1,44.54
+Noida,Sector 150,Residential,1891,40,21.1,1,1,1,224.3
+Noida,Sector 62,Residential,5757,80,13.6,0,1,0,688.91
+Noida,Sector 150,Residential,1444,12,30.8,0,1,0,123.66
+Gurugram,Sohna Road,Commercial,3846,12,34.1,0,1,0,398.15
+Lucknow,Gomti Nagar,Commercial,1277,12,15.3,0,1,0,136.85
+Pune,Hinjewadi,Residential,1318,40,9.0,0,1,0,138.66
+Pune,Baner,Commercial,1137,40,29.2,0,1,0,253.75
+Lucknow,Gomti Nagar,Agricultural,2848,20,4.8,1,1,0,60.22
+Noida,Sector 18,Residential,437,20,17.3,0,0,0,64.37
+Lucknow,Aliganj,Commercial,3334,30,14.5,0,1,0,286.19
+Lucknow,Sultanpur Road,Commercial,4991,80,4.9,1,1,0,337.66
+Pune,Hinjewadi,Residential,2109,30,29.9,0,1,0,154.03
+Pune,Hinjewadi,Commercial,2601,60,23.2,0,1,1,418.88
+Gurugram,Golf Course Road,Residential,545,30,2.0,0,1,0,245.05
+Lucknow,Indira Nagar,Residential,574,60,3.4,0,1,0,40.49
+Delhi,Saket,Industrial,1809,60,24.9,0,1,0,395.42
+Delhi,Dwarka,Commercial,8166,60,19.8,0,1,0,1860.13
+Lucknow,Aliganj,Agricultural,5747,20,3.7,0,1,0,76.38
+Pune,Kothrud,Agricultural,2845,60,18.2,0,1,0,125.43
+Pune,Baner,Industrial,424,20,34.3,0,1,0,43.24
+Gurugram,Manesar,Agricultural,2781,80,24.8,1,0,0,43.97
+Delhi,Narela,Agricultural,1552,20,16.9,1,1,1,25.45
+Jaipur,Mansarovar,Commercial,978,20,22.7,0,1,0,88.11
+Pune,Baner,Residential,572,20,16.2,1,1,0,93.23
+Pune,Baner,Commercial,566,20,7.8,1,1,1,181.22
+Jaipur,Ajmer Road,Agricultural,577,20,16.8,0,0,1,3.67
+Lucknow,Indira Nagar,Agricultural,608,12,6.3,0,0,0,8.07
+Gurugram,Manesar,Residential,2613,60,30.7,1,1,0,164.18
+Pune,Baner,Commercial,2490,12,5.5,1,0,0,626.33
+Gurugram,Golf Course Road,Industrial,3490,80,10.7,0,0,0,1062.03
+Lucknow,Gomti Nagar,Industrial,3527,80,23.7,0,1,0,219.09
+Gurugram,Golf Course Road,Residential,3508,30,5.6,1,1,0,1567.32
+Delhi,Rohini,Industrial,1533,20,31.6,0,1,0,128.17
+Delhi,Saket,Residential,1512,30,10.1,0,1,0,438.2
+Noida,Sector 150,Commercial,3467,30,32.1,1,1,0,634.46
+Lucknow,Sultanpur Road,Residential,1233,12,8.1,1,0,0,36.61
+Noida,Sector 62,Residential,2147,40,4.8,1,1,0,210.48
+Lucknow,Indira Nagar,Commercial,1646,30,3.2,0,1,0,156.09
+Lucknow,Sultanpur Road,Residential,2785,20,20.4,1,1,0,83.72
+Jaipur,Vaishali Nagar,Residential,8234,12,15.6,1,1,0,585.12
+Jaipur,Ajmer Road,Agricultural,984,40,30.5,1,1,1,8.64
+Gurugram,Sohna Road,Residential,3927,20,11.7,1,1,0,440.73
+Jaipur,Ajmer Road,Residential,545,20,16.7,0,1,0,17.7
+Gurugram,Sohna Road,Commercial,621,40,18.3,0,1,1,109.05
+Lucknow,Sultanpur Road,Commercial,9386,40,10.3,0,1,0,469.26
+Pune,Hinjewadi,Residential,5841,60,21.2,1,1,0,620.82
+Lucknow,Indira Nagar,Residential,1386,12,6.3,0,1,0,83.42
+Noida,Sector 150,Residential,2062,12,5.6,0,1,0,227.02
+Noida,Sector 62,Residential,595,80,22.4,1,1,0,69.84
+Noida,Sector 150,Industrial,4984,40,11.0,1,1,0,525.19
+Jaipur,Vaishali Nagar,Commercial,903,40,19.9,1,1,0,140.03
+Jaipur,Vaishali Nagar,Commercial,3485,40,30.2,0,1,0,366.12
+Jaipur,Ajmer Road,Residential,8895,20,10.1,0,1,0,305.02
+Jaipur,Ajmer Road,Industrial,3447,30,7.1,0,1,0,103.64
+Jaipur,Vaishali Nagar,Commercial,1386,20,16.8,1,0,0,151.63
+Gurugram,Manesar,Commercial,1963,80,14.2,1,1,0,267.06
+Noida,Sector 150,Residential,2816,30,10.7,0,1,0,322.51
+Gurugram,Manesar,Residential,3761,30,22.5,1,0,1,195.62
+Jaipur,Ajmer Road,Commercial,2038,60,27.6,0,1,0,102.64
+Jaipur,Vaishali Nagar,Agricultural,2557,20,30.2,1,1,0,43.55
+Lucknow,Gomti Nagar,Residential,1894,20,1.3,1,1,1,163.36
+Jaipur,Jagatpura,Residential,644,20,20.8,0,1,0,25.6
+Noida,Sector 18,Agricultural,3463,20,6.5,1,1,0,167.99
+Noida,Sector 18,Residential,1606,12,24.9,1,1,0,259.74
+Pune,Baner,Residential,1887,40,23.5,0,1,1,313.15
+Jaipur,Ajmer Road,Commercial,5295,60,9.0,0,1,0,326.93
+Delhi,Rohini,Commercial,3672,30,15.9,0,0,0,613.39
+Noida,Greater Noida West,Commercial,3471,30,21.1,1,1,0,291.59
+Lucknow,Sultanpur Road,Commercial,971,20,7.5,0,0,0,40.94
+Noida,Sector 150,Residential,1649,20,8.8,0,1,0,199.05
+Pune,Baner,Commercial,3828,12,10.3,0,1,0,981.27
+Jaipur,Vaishali Nagar,Residential,8360,20,32.3,0,1,0,490.06
+Noida,Greater Noida West,Residential,1485,30,18.2,0,1,0,72.87
+Delhi,Rohini,Industrial,5487,20,15.2,1,0,0,483.71
+Pune,Baner,Agricultural,5305,20,26.8,1,1,0,186.16
+Delhi,Saket,Commercial,2895,60,20.2,1,1,0,1676.4
+Noida,Sector 150,Residential,5410,20,29.4,1,1,0,502.1
+Delhi,Dwarka,Agricultural,632,40,2.8,0,1,0,25.99
+Noida,Greater Noida West,Commercial,1975,12,8.3,0,0,0,140.78
+Jaipur,Vaishali Nagar,Residential,1200,80,2.9,1,1,0,126.07
+Delhi,Saket,Residential,3478,80,29.4,0,1,0,971.85
+Delhi,Saket,Residential,8491,30,3.1,1,1,0,2991.08
+Delhi,Rohini,Agricultural,1387,80,15.1,0,1,0,56.9
+Noida,Sector 62,Residential,2767,60,29.5,1,1,1,277.47
+Jaipur,Vaishali Nagar,Commercial,9284,40,14.1,1,1,1,1251.4
+Noida,Sector 62,Commercial,1521,80,21.7,0,1,0,259.78
+Delhi,Narela,Residential,945,30,19.5,1,1,1,55.21
+Gurugram,DLF Phase 3,Residential,9773,12,3.5,1,1,0,3668.69
+Lucknow,Indira Nagar,Residential,1950,30,2.3,1,1,1,134.52
+Pune,Hinjewadi,Residential,1482,30,5.7,1,1,0,159.11
+Delhi,Narela,Residential,1250,30,22.3,1,1,0,74.14
+Noida,Sector 62,Residential,571,20,16.7,0,1,0,56.81
+Lucknow,Indira Nagar,Residential,2569,12,28.3,0,0,0,92.92
+Lucknow,Aliganj,Residential,9153,40,6.3,0,1,1,571.53
+Pune,Kothrud,Agricultural,654,30,30.8,0,0,0,20.18
+Pune,Wagholi,Industrial,3766,20,33.6,1,0,0,98.04
+Lucknow,Gomti Nagar,Industrial,2595,40,21.7,1,1,0,161.16
+Pune,Kothrud,Commercial,853,80,9.9,1,1,0,315.15
+Jaipur,Mansarovar,Residential,1319,40,11.0,1,1,0,95.52
+Noida,Greater Noida West,Residential,544,30,32.2,0,1,1,24.2
+Pune,Kothrud,Residential,1115,12,21.5,0,1,0,163.91
+Noida,Greater Noida West,Residential,1457,12,27.4,0,1,0,61.35
+Pune,Baner,Residential,2744,80,11.1,1,1,0,616.19
+Lucknow,Gomti Nagar,Agricultural,1547,60,23.1,0,0,0,23.09
+Jaipur,Mansarovar,Agricultural,1373,40,5.8,0,0,0,19.4
+Gurugram,Golf Course Road,Agricultural,418,20,34.9,1,1,0,32.09
+Noida,Sector 150,Industrial,639,20,8.4,0,0,1,48.4
+Delhi,Narela,Residential,594,20,32.6,0,1,0,22.93
+Delhi,Rohini,Residential,1158,20,24.4,1,1,0,140.71
+Lucknow,Gomti Nagar,Commercial,1165,60,6.6,1,0,0,154.58
+Lucknow,Aliganj,Residential,3577,60,2.1,0,1,0,226.46
+Pune,Baner,Industrial,488,12,23.0,0,0,0,49.47
+Delhi,Rohini,Residential,5321,40,25.9,1,0,0,575.8
+Lucknow,Gomti Nagar,Residential,1276,60,26.1,0,1,0,81.29
+Lucknow,Sultanpur Road,Residential,456,12,26.4,1,0,0,10.94
+Delhi,Saket,Residential,622,12,4.8,1,1,1,227.22
+Delhi,Narela,Residential,8273,40,22.5,1,0,0,410.12
+Delhi,Dwarka,Residential,456,30,35.0,1,1,0,50.04
+Delhi,Narela,Agricultural,3343,80,15.0,0,1,0,61.25
+Pune,Baner,Agricultural,1311,20,11.4,1,1,1,61.97
+Jaipur,Vaishali Nagar,Commercial,1167,80,6.7,0,0,0,151.52
+Jaipur,Jagatpura,Residential,3319,20,34.4,1,1,1,144.67
+Jaipur,Mansarovar,Residential,931,30,10.6,0,1,1,65.18
+Pune,Kothrud,Residential,1505,80,12.8,0,0,0,289.17
+Gurugram,Sohna Road,Residential,454,80,21.3,0,1,0,53.39
+Lucknow,Sultanpur Road,Commercial,574,30,3.2,1,1,0,34.67
+Pune,Baner,Residential,1115,60,32.6,1,1,1,180.02
+Lucknow,Gomti Nagar,Commercial,5069,12,30.9,1,1,0,432.8
+Pune,Baner,Residential,621,80,29.9,0,1,0,101.28
+Pune,Wagholi,Industrial,1520,80,11.0,0,1,0,80.97
+Noida,Greater Noida West,Residential,9240,40,32.1,0,1,0,392.59
+Gurugram,DLF Phase 3,Agricultural,1514,80,19.9,1,1,0,149.12
+Jaipur,Vaishali Nagar,Industrial,3709,20,22.3,1,1,0,238.88
+Pune,Hinjewadi,Residential,925,20,21.9,1,1,0,84.63
+Delhi,Dwarka,Residential,842,30,15.3,1,1,0,132.09
+Delhi,Saket,Residential,586,40,28.1,0,1,0,161.8
+Lucknow,Sultanpur Road,Residential,8428,30,31.0,0,1,0,213.28
+Pune,Hinjewadi,Agricultural,3335,60,26.4,0,1,0,73.18
+Delhi,Dwarka,Commercial,9705,20,23.3,0,1,0,1919.35
+Jaipur,Jagatpura,Commercial,2519,80,20.7,0,1,0,216.74
+Pune,Hinjewadi,Commercial,4876,30,3.4,1,0,0,731.18
+Delhi,Dwarka,Commercial,2099,80,10.9,1,0,0,528.27
+Gurugram,Golf Course Road,Residential,5679,12,19.2,0,0,0,1648.52
+Jaipur,Jagatpura,Industrial,5921,40,24.3,1,1,0,233.74
+Delhi,Dwarka,Residential,3286,60,3.3,0,0,0,494.16
+Pune,Baner,Agricultural,1146,20,31.1,0,0,1,36.87
+Pune,Wagholi,Commercial,439,80,25.5,0,0,0,33.54
+Jaipur,Vaishali Nagar,Residential,9843,80,33.9,1,1,0,762.28
+Noida,Sector 62,Commercial,898,12,9.1,1,1,0,110.85
+Lucknow,Aliganj,Residential,5239,40,26.4,0,0,0,204.38
+Noida,Sector 62,Residential,2726,60,25.6,1,0,0,212.24
+Delhi,Narela,Residential,484,60,28.7,0,1,0,25.19
+Gurugram,DLF Phase 3,Residential,5535,60,18.7,0,1,0,1772.02
+Lucknow,Sultanpur Road,Industrial,3606,40,25.7,0,0,1,71.45
+Lucknow,Sultanpur Road,Residential,2816,60,18.8,0,1,0,100.87
+Noida,Sector 150,Commercial,1253,80,6.9,1,1,0,354.85
+Gurugram,Manesar,Industrial,1151,60,12.3,0,1,1,60.83
+Pune,Wagholi,Residential,438,20,12.3,1,1,0,24.54
+Lucknow,Indira Nagar,Residential,3805,12,34.8,0,1,0,147.51
+Jaipur,Ajmer Road,Commercial,2729,40,9.6,0,1,0,150.43
+Pune,Wagholi,Residential,1251,60,5.4,1,1,0,76.38
+Gurugram,DLF Phase 3,Residential,612,30,7.0,0,1,0,209.33
+Gurugram,Golf Course Road,Agricultural,1090,30,9.9,1,0,1,117.56
+Pune,Wagholi,Commercial,1811,80,27.4,1,0,0,137.6
+Noida,Sector 18,Residential,3814,12,16.8,0,1,0,638.47
+Lucknow,Gomti Nagar,Agricultural,2011,12,10.3,1,1,0,37.27
+Lucknow,Indira Nagar,Residential,1803,30,26.4,1,1,1,110.97
+Lucknow,Indira Nagar,Agricultural,988,12,9.4,1,1,0,15.1
+Delhi,Dwarka,Residential,2881,40,24.6,0,1,0,354.06
+Gurugram,Sohna Road,Residential,1947,60,23.2,1,1,0,204.27
+Jaipur,Mansarovar,Commercial,4941,40,23.7,1,1,1,451.82
+Delhi,Rohini,Commercial,949,20,10.7,0,0,0,156.85
+Lucknow,Sultanpur Road,Agricultural,566,80,26.7,1,1,0,5.01
+Delhi,Saket,Agricultural,2790,30,13.5,1,1,0,231.66
+Jaipur,Vaishali Nagar,Commercial,2920,80,20.4,1,1,0,465.77
+Gurugram,Golf Course Road,Residential,456,12,6.3,1,1,0,212.87
+Gurugram,Golf Course Road,Agricultural,1248,60,1.3,0,1,1,158.26
+Gurugram,Golf Course Road,Industrial,3944,80,31.4,1,0,0,1201.78
+Lucknow,Gomti Nagar,Residential,1869,80,13.5,0,1,1,182.32
+Gurugram,Golf Course Road,Agricultural,566,20,15.5,0,1,0,51.87
+Lucknow,Aliganj,Residential,1200,20,15.7,0,0,0,49.97
+Gurugram,DLF Phase 3,Residential,2866,40,31.2,0,1,1,772.13
+Lucknow,Aliganj,Agricultural,1134,30,10.8,1,0,1,15.07
+Delhi,Dwarka,Agricultural,615,40,13.2,1,0,1,23.44
+Delhi,Saket,Residential,9540,12,17.7,1,1,0,2444.57
+Delhi,Dwarka,Commercial,656,40,13.7,1,1,0,175.04
+Jaipur,Jagatpura,Residential,2134,80,15.6,0,0,1,115.7
+Pune,Wagholi,Residential,1904,30,33.4,0,0,0,65.61
+Jaipur,Ajmer Road,Residential,875,12,24.4,1,1,0,28.29
+Pune,Wagholi,Residential,616,20,25.7,1,1,0,31.06
+Jaipur,Vaishali Nagar,Residential,562,30,6.3,1,1,0,52.33
+Gurugram,Golf Course Road,Residential,3767,80,28.4,0,1,0,1492.72
+Noida,Sector 62,Residential,1801,12,32.7,0,1,0,138.48
+Noida,Sector 18,Commercial,2678,40,12.8,0,0,0,701.8
+Lucknow,Aliganj,Residential,937,80,13.2,1,1,1,65.3
+Gurugram,Golf Course Road,Commercial,2823,20,25.5,1,1,0,1682.29
+Noida,Sector 62,Residential,1817,30,15.1,0,1,0,194.44
+Delhi,Saket,Residential,1124,40,6.0,0,1,0,352.14
+Delhi,Narela,Residential,1464,60,21.4,1,1,0,97.57
+Gurugram,DLF Phase 3,Residential,1414,30,20.2,1,1,1,531.24
+Delhi,Rohini,Residential,1622,30,17.7,0,1,0,182.46
+Jaipur,Mansarovar,Commercial,455,80,22.8,1,1,0,55.56
+Jaipur,Vaishali Nagar,Agricultural,2762,80,13.9,0,1,0,69.27
+Noida,Sector 18,Agricultural,8299,40,17.4,1,0,1,369.72
+Gurugram,Manesar,Residential,1097,80,28.2,1,1,0,80.48
+Jaipur,Jagatpura,Residential,470,12,8.1,0,1,1,22.5
+Lucknow,Aliganj,Residential,1601,12,20.1,0,0,0,59.96
+Jaipur,Jagatpura,Agricultural,5930,80,5.5,0,0,0,70.14
+Gurugram,Golf Course Road,Residential,9038,30,6.5,0,1,0,4032.96
+Delhi,Rohini,Industrial,5773,12,33.4,1,1,0,449.88
+Gurugram,Manesar,Residential,2554,40,13.9,0,1,0,158.15
+Pune,Kothrud,Commercial,854,30,15.9,0,1,0,218.82
+Pune,Baner,Residential,1860,30,25.3,0,0,0,251.0
+Gurugram,Sohna Road,Commercial,9408,80,17.8,0,0,0,1371.29
+Gurugram,Sohna Road,Residential,5214,30,33.1,0,1,0,394.22
+Pune,Wagholi,Residential,8746,80,15.7,1,1,0,554.39
+Noida,Sector 62,Agricultural,1148,60,8.0,1,0,0,32.85
+Jaipur,Jagatpura,Agricultural,1260,40,6.9,0,1,1,18.1
+Gurugram,DLF Phase 3,Residential,1927,40,5.5,0,0,0,561.06
+Delhi,Saket,Agricultural,5084,12,1.1,0,1,0,396.79
+Delhi,Dwarka,Commercial,542,20,26.8,0,0,0,89.9
+Delhi,Rohini,Residential,622,80,12.6,0,1,0,93.74
+Pune,Hinjewadi,Residential,894,30,5.6,0,1,1,98.37
+Jaipur,Jagatpura,Residential,577,40,30.0,0,1,0,26.78
+Lucknow,Indira Nagar,Residential,467,12,16.9,0,0,0,19.65
+Pune,Baner,Residential,944,60,17.0,0,1,0,162.65
+Delhi,Saket,Industrial,3640,20,30.1,1,1,0,640.26
+Lucknow,Aliganj,Commercial,3649,80,4.9,1,0,0,396.92
+Gurugram,Sohna Road,Industrial,483,30,26.0,0,0,0,27.38
+Gurugram,DLF Phase 3,Agricultural,1239,20,29.9,1,0,1,74.57
+Noida,Sector 150,Residential,974,40,12.1,0,0,0,94.35
+Pune,Kothrud,Residential,2740,40,27.7,1,1,0,471.25
+Delhi,Rohini,Industrial,8479,40,11.3,0,1,1,898.82
+Delhi,Rohini,Agricultural,543,20,18.4,1,1,0,16.57
+Lucknow,Gomti Nagar,Residential,1849,20,21.0,0,1,0,104.75
+Delhi,Narela,Commercial,2886,20,2.2,0,1,0,309.97
+Gurugram,DLF Phase 3,Agricultural,8387,12,14.0,0,1,0,640.99
+Delhi,Rohini,Residential,653,12,15.9,0,1,0,70.14
+Lucknow,Indira Nagar,Commercial,463,40,21.6,0,1,0,40.44
+Gurugram,Golf Course Road,Agricultural,1224,60,26.5,1,1,0,127.33
+Delhi,Narela,Agricultural,1140,40,24.6,0,0,0,11.41
+Lucknow,Gomti Nagar,Residential,1468,12,1.6,1,1,1,135.19
+Delhi,Dwarka,Agricultural,553,20,1.3,0,1,0,23.93
+Noida,Sector 18,Residential,1284,30,9.3,1,0,0,232.2
+Delhi,Rohini,Residential,925,80,20.8,1,1,0,152.28
+Jaipur,Ajmer Road,Commercial,857,60,5.1,0,0,0,51.93
+Lucknow,Indira Nagar,Residential,3692,30,4.4,1,1,0,235.6
+Lucknow,Sultanpur Road,Agricultural,2713,60,18.7,1,1,0,25.51
+Noida,Sector 150,Residential,3337,80,29.9,1,1,0,459.38
+Delhi,Dwarka,Agricultural,433,30,18.3,0,1,1,15.22
+Pune,Kothrud,Residential,619,30,31.2,0,0,0,71.8
+Delhi,Narela,Agricultural,1194,40,16.3,1,0,0,16.88
+Delhi,Rohini,Residential,1566,12,19.9,1,1,0,207.6
+Gurugram,Sohna Road,Residential,1509,20,21.6,1,1,0,138.65
+Delhi,Saket,Commercial,1257,80,29.6,0,1,0,575.02
+Gurugram,Sohna Road,Residential,1173,30,2.2,1,0,0,123.47
+Jaipur,Jagatpura,Agricultural,827,60,34.2,1,1,0,10.0
+Noida,Greater Noida West,Residential,1082,12,4.2,1,1,0,55.12
+Delhi,Saket,Residential,1583,20,31.9,0,1,0,354.03
+Noida,Sector 150,Residential,9163,12,31.9,0,1,0,704.18
+Gurugram,Sohna Road,Agricultural,872,30,20.8,0,0,0,16.79
+Lucknow,Aliganj,Commercial,940,30,13.9,1,1,1,90.59
+Delhi,Saket,Residential,2839,60,29.8,1,1,0,789.2
+Delhi,Saket,Commercial,1876,60,19.9,1,1,0,909.4
+Pune,Baner,Agricultural,904,60,33.3,0,0,1,29.0
+Delhi,Rohini,Residential,3378,40,22.6,1,1,0,428.02
+Pune,Kothrud,Residential,1522,12,20.0,1,0,0,240.78
+Lucknow,Aliganj,Commercial,656,20,14.6,1,1,0,53.62
+Pune,Kothrud,Industrial,2089,80,12.5,0,1,0,343.11
+Jaipur,Vaishali Nagar,Agricultural,1169,80,25.1,0,1,0,25.01
+Noida,Sector 150,Residential,849,12,31.8,1,1,0,74.62
+Noida,Greater Noida West,Residential,1519,40,24.2,0,1,0,67.69
+Gurugram,Manesar,Residential,5592,20,4.7,1,1,0,364.83
+Lucknow,Indira Nagar,Agricultural,5145,30,21.7,0,1,0,61.84
+Lucknow,Gomti Nagar,Residential,651,12,1.5,0,0,0,41.69
+Lucknow,Sultanpur Road,Residential,478,30,26.3,0,0,0,10.09
+Noida,Greater Noida West,Commercial,1574,60,31.1,1,1,0,135.27
+Jaipur,Ajmer Road,Industrial,2003,30,12.4,1,1,0,61.99
+Delhi,Narela,Residential,1522,60,24.7,0,1,0,81.83
+Jaipur,Vaishali Nagar,Residential,898,60,19.7,0,1,0,67.8
+Pune,Wagholi,Industrial,5503,80,33.9,1,1,0,247.77
+Noida,Sector 150,Commercial,649,30,13.1,1,1,0,133.43
+Pune,Wagholi,Commercial,5505,20,20.3,0,1,0,377.96
+Noida,Greater Noida West,Residential,3381,60,27.7,0,0,0,135.27
+Gurugram,Golf Course Road,Residential,9175,40,2.9,1,1,1,4683.13
+Lucknow,Indira Nagar,Commercial,3843,60,26.0,1,0,0,262.1
+Delhi,Narela,Commercial,646,40,16.5,0,1,1,64.19
+Jaipur,Vaishali Nagar,Agricultural,2087,12,9.3,0,1,1,42.54
+Delhi,Saket,Agricultural,1934,80,17.4,1,1,0,175.08
+Jaipur,Jagatpura,Agricultural,5107,12,8.1,1,1,0,56.55
+Lucknow,Sultanpur Road,Agricultural,928,80,7.7,1,1,0,10.71
+Delhi,Rohini,Residential,1437,40,34.3,1,1,0,165.6
+Delhi,Rohini,Agricultural,5490,12,14.8,1,1,0,160.48
+Gurugram,Sohna Road,Agricultural,5883,60,15.5,0,1,0,152.57
+Noida,Sector 18,Residential,5932,20,4.9,0,0,0,984.49
+Pune,Hinjewadi,Commercial,3776,60,10.2,1,1,0,626.84
+Jaipur,Ajmer Road,Industrial,8574,60,17.3,1,1,1,316.9
+Lucknow,Aliganj,Commercial,5152,12,2.5,0,1,0,424.79
+Pune,Kothrud,Commercial,3622,60,28.4,0,1,0,823.43
+Noida,Greater Noida West,Residential,2945,12,30.5,1,0,0,117.65
+Pune,Kothrud,Residential,9298,30,5.4,0,1,0,1676.91
+Gurugram,DLF Phase 3,Industrial,5315,12,25.2,0,1,0,1178.07
+Delhi,Rohini,Industrial,1224,60,20.0,0,0,0,115.7
+Delhi,Saket,Agricultural,5068,80,6.6,0,1,0,421.49
+Delhi,Narela,Residential,1127,60,19.2,1,1,0,78.85
+Noida,Greater Noida West,Residential,553,12,34.1,0,1,0,19.96
+Gurugram,Manesar,Residential,882,12,9.9,1,1,0,56.52
+Gurugram,Sohna Road,Commercial,476,30,33.5,1,0,0,53.74
+Delhi,Rohini,Residential,5920,12,21.6,0,1,1,653.07
+Gurugram,Manesar,Commercial,9285,60,21.4,0,1,0,837.11
+Pune,Baner,Residential,845,20,18.8,1,1,1,150.23
+Noida,Sector 150,Residential,3458,80,8.6,1,1,0,512.55
+Pune,Baner,Commercial,5774,30,20.3,1,1,0,1580.44
+Lucknow,Indira Nagar,Agricultural,475,20,21.4,0,1,0,5.15
+Lucknow,Sultanpur Road,Residential,1297,30,25.2,1,0,0,34.68
+Noida,Sector 62,Commercial,578,12,22.4,0,1,0,74.17
+Gurugram,DLF Phase 3,Residential,5677,60,14.3,0,1,0,1936.94
+Delhi,Dwarka,Residential,3911,12,32.1,0,1,0,435.18
+Noida,Sector 150,Residential,557,60,23.0,0,1,1,70.44
+Gurugram,Manesar,Residential,3872,40,17.2,0,1,1,238.78
+Lucknow,Gomti Nagar,Residential,860,30,14.7,0,1,1,77.98
+Delhi,Narela,Residential,2455,20,2.3,1,0,0,142.5
+Delhi,Narela,Residential,591,20,8.2,0,1,0,34.54
+Pune,Kothrud,Commercial,8337,30,31.7,0,1,0,1906.31
+Gurugram,Sohna Road,Commercial,447,30,10.0,1,1,1,93.07
+Lucknow,Sultanpur Road,Residential,5625,30,5.8,1,1,0,201.45
+Lucknow,Indira Nagar,Agricultural,1377,20,6.8,0,0,0,18.06
+Delhi,Narela,Commercial,454,60,6.0,1,0,0,48.96
+Jaipur,Mansarovar,Residential,2463,80,5.0,0,1,1,204.17
+Gurugram,DLF Phase 3,Residential,848,12,26.1,0,0,0,171.19
+Jaipur,Ajmer Road,Industrial,8558,40,11.9,0,1,1,245.74
+Lucknow,Sultanpur Road,Commercial,2105,20,26.1,1,1,0,101.29
+Gurugram,DLF Phase 3,Agricultural,3309,30,4.6,1,1,0,280.25
+Gurugram,DLF Phase 3,Agricultural,2039,12,32.6,0,1,0,115.5
+Pune,Hinjewadi,Residential,8743,12,8.6,0,0,0,691.07
+Lucknow,Gomti Nagar,Residential,3702,40,13.6,0,1,0,277.85
+Noida,Sector 150,Commercial,3627,80,25.9,0,1,0,640.75
+Noida,Greater Noida West,Residential,2181,80,1.1,1,1,0,180.91
+Gurugram,DLF Phase 3,Agricultural,1190,30,14.2,0,1,0,90.01
+Gurugram,Golf Course Road,Commercial,909,80,27.1,1,0,0,549.86
+Gurugram,DLF Phase 3,Residential,659,80,26.9,1,0,0,217.57
+Lucknow,Sultanpur Road,Commercial,1500,12,25.9,1,1,0,55.66
+Gurugram,Golf Course Road,Agricultural,3660,40,21.5,0,1,0,355.89
+Lucknow,Sultanpur Road,Agricultural,1458,60,1.7,1,1,0,15.08
+Noida,Sector 62,Residential,2108,60,14.0,1,1,1,259.87
+Lucknow,Gomti Nagar,Residential,3605,80,29.0,1,1,0,283.38
+Noida,Greater Noida West,Agricultural,1441,40,19.1,1,1,1,21.23
+Jaipur,Jagatpura,Residential,2798,20,32.3,1,1,0,107.12
+Pune,Kothrud,Residential,592,12,11.1,0,1,0,96.58
+Gurugram,Golf Course Road,Commercial,549,80,13.2,1,0,0,372.78
+Lucknow,Gomti Nagar,Residential,641,20,6.5,0,1,0,48.37
+Jaipur,Ajmer Road,Commercial,1169,30,31.8,0,0,0,47.22
+Jaipur,Mansarovar,Industrial,2039,30,34.9,0,1,0,76.39
+Delhi,Narela,Industrial,578,12,31.5,0,1,0,19.5
+Noida,Sector 150,Agricultural,1244,20,25.7,0,1,0,31.44
+Lucknow,Gomti Nagar,Residential,1307,12,31.7,1,0,0,70.74
+Pune,Kothrud,Commercial,1080,12,17.9,0,1,0,262.97
+Lucknow,Indira Nagar,Residential,2804,60,9.6,1,1,0,190.64
+Lucknow,Indira Nagar,Residential,1362,40,8.3,0,0,0,73.52
+Gurugram,Manesar,Residential,618,80,32.8,1,1,0,42.9
+Gurugram,Manesar,Commercial,1869,80,32.8,0,1,0,174.41
+Jaipur,Ajmer Road,Agricultural,2198,80,23.8,0,0,1,18.39
+Lucknow,Aliganj,Commercial,2629,30,2.1,0,1,0,212.33
+Noida,Greater Noida West,Residential,2490,60,20.6,1,1,0,143.25
+Delhi,Rohini,Commercial,595,20,13.7,0,1,0,114.39
+Noida,Sector 62,Residential,3628,12,29.2,0,1,1,311.68
+Noida,Sector 62,Residential,3523,80,5.0,1,1,1,499.96
+Pune,Baner,Residential,2874,20,14.5,0,1,1,488.02
+Jaipur,Jagatpura,Residential,2164,60,27.8,0,1,0,97.08
+Jaipur,Ajmer Road,Agricultural,3890,20,29.9,0,0,1,25.35
+Noida,Sector 150,Commercial,5877,30,9.7,1,1,1,1341.24
+Delhi,Rohini,Agricultural,8193,60,4.1,1,0,0,274.92
+Gurugram,DLF Phase 3,Agricultural,2811,20,27.0,1,1,0,193.8
+Pune,Kothrud,Commercial,9073,80,9.1,0,1,1,3395.31
+Pune,Wagholi,Industrial,483,20,13.9,1,1,0,19.12
+Lucknow,Aliganj,Residential,3802,60,12.5,0,1,1,233.13
+Lucknow,Sultanpur Road,Residential,5203,40,19.8,0,0,0,125.05
+Jaipur,Jagatpura,Residential,1646,20,8.0,0,1,0,81.01
+Delhi,Narela,Commercial,1246,12,21.5,1,1,0,86.62
+Noida,Sector 150,Agricultural,1370,20,21.4,1,1,0,38.07
+Gurugram,DLF Phase 3,Industrial,961,40,20.8,0,1,0,241.57
+Noida,Sector 62,Agricultural,460,60,2.3,1,1,0,14.38
+Noida,Sector 62,Residential,5609,40,2.1,1,1,1,683.31
+Pune,Hinjewadi,Commercial,492,60,33.2,1,1,0,75.25
+Delhi,Dwarka,Residential,3397,20,25.0,0,1,0,346.06
+Lucknow,Gomti Nagar,Residential,3660,40,3.5,0,1,0,313.52
+Lucknow,Indira Nagar,Commercial,1875,80,22.0,0,1,0,170.17
+Delhi,Dwarka,Residential,1620,80,34.3,0,1,0,204.66
+Jaipur,Jagatpura,Residential,5481,60,29.7,1,1,0,249.96
+Noida,Greater Noida West,Residential,411,40,6.8,0,1,0,24.61
+Delhi,Dwarka,Commercial,8752,20,24.4,0,1,0,1683.79
+Delhi,Rohini,Residential,1546,80,21.9,0,1,0,223.48
+Gurugram,Sohna Road,Residential,1632,12,5.8,1,1,0,172.66
+Delhi,Narela,Commercial,1834,80,2.5,0,1,0,218.21
+Noida,Sector 18,Agricultural,5895,80,31.7,0,1,0,248.74
+Gurugram,Golf Course Road,Industrial,3920,20,33.2,0,0,0,734.76
+Noida,Sector 62,Agricultural,1935,12,5.6,0,1,0,43.59
+Delhi,Narela,Residential,1582,12,24.9,0,0,0,51.95
+Noida,Sector 18,Industrial,437,60,1.1,1,0,0,72.41
+Jaipur,Jagatpura,Residential,2178,20,15.0,1,1,0,107.32
+Noida,Sector 18,Commercial,437,40,20.2,1,1,0,137.44
+Delhi,Rohini,Residential,840,80,15.0,0,1,0,137.77
+Lucknow,Sultanpur Road,Agricultural,934,40,14.4,0,0,0,5.93
+Delhi,Saket,Commercial,1250,20,31.0,0,1,0,451.33
+Gurugram,Golf Course Road,Residential,442,12,5.3,0,1,0,166.91
+Gurugram,Sohna Road,Agricultural,405,30,9.2,0,0,0,8.15
+Noida,Sector 62,Commercial,3829,12,32.9,1,1,1,464.3
+Lucknow,Gomti Nagar,Residential,4908,80,30.2,1,1,0,388.19
+Lucknow,Gomti Nagar,Residential,1567,60,24.8,1,1,0,114.34
+Gurugram,Manesar,Residential,2941,20,25.7,1,0,0,126.17
+Noida,Sector 150,Industrial,1218,30,25.2,1,0,0,95.76
+Lucknow,Sultanpur Road,Commercial,9269,30,31.7,0,0,0,314.13
+Noida,Greater Noida West,Residential,1447,60,10.6,1,1,0,86.22
+Jaipur,Jagatpura,Residential,9587,20,4.2,0,1,0,444.23
+Noida,Greater Noida West,Agricultural,848,80,9.2,1,1,0,14.36
+Noida,Sector 62,Residential,1556,60,34.2,1,1,0,141.38
+Noida,Greater Noida West,Commercial,647,12,22.3,0,1,0,45.0
+Pune,Kothrud,Commercial,881,12,32.6,1,1,0,195.57
+Noida,Greater Noida West,Agricultural,488,12,31.7,0,1,0,5.11
+Pune,Hinjewadi,Residential,571,80,21.2,1,1,0,58.1
+Pune,Wagholi,Agricultural,3940,30,23.7,0,1,1,50.94
+Delhi,Saket,Residential,3463,60,27.6,1,0,0,881.16
+Lucknow,Sultanpur Road,Residential,463,80,8.8,1,0,0,17.27
+Delhi,Dwarka,Agricultural,1240,40,13.7,1,0,0,40.9
+Delhi,Narela,Residential,1371,12,14.3,1,1,1,80.02
+Jaipur,Ajmer Road,Commercial,3792,20,9.5,0,1,0,219.82
+Lucknow,Indira Nagar,Agricultural,9836,40,32.8,1,1,0,112.39
+Gurugram,DLF Phase 3,Agricultural,3432,60,13.6,0,1,0,272.63
+Jaipur,Mansarovar,Commercial,1501,30,4.6,1,1,0,190.68
+Lucknow,Gomti Nagar,Industrial,8926,80,1.3,0,1,0,647.51
+Pune,Hinjewadi,Residential,8807,60,8.5,0,0,1,870.46
+Gurugram,Manesar,Residential,647,80,11.7,1,1,0,52.53
+Gurugram,Golf Course Road,Agricultural,3548,20,2.2,0,1,0,393.02
+Lucknow,Gomti Nagar,Commercial,477,40,17.2,1,1,1,60.89
+Noida,Sector 62,Commercial,829,60,14.6,0,1,0,148.33
+Pune,Baner,Agricultural,922,40,5.8,1,1,0,46.54
+Lucknow,Indira Nagar,Residential,2118,40,23.9,1,0,1,108.22
+Lucknow,Indira Nagar,Residential,1516,30,34.4,1,0,0,57.69
+Noida,Sector 150,Commercial,882,20,22.6,0,1,0,138.09
+Gurugram,Sohna Road,Residential,552,40,11.6,1,1,0,70.09
+Jaipur,Mansarovar,Commercial,444,60,16.2,0,1,0,46.32
+Lucknow,Indira Nagar,Agricultural,5404,60,6.8,0,0,0,80.83
+Noida,Sector 62,Industrial,5595,80,24.3,0,1,0,421.61
+Noida,Sector 18,Agricultural,8701,80,4.2,1,0,0,452.0
+Delhi,Rohini,Commercial,1893,60,33.8,0,1,1,360.77
+Gurugram,Manesar,Industrial,2657,60,28.2,0,1,0,114.15
+Delhi,Rohini,Residential,8139,80,15.8,0,1,0,1099.46
+Jaipur,Vaishali Nagar,Residential,845,80,3.7,0,0,0,76.28
+Delhi,Narela,Commercial,2137,40,23.2,0,1,0,182.21
+Lucknow,Aliganj,Residential,884,60,1.9,1,1,0,67.29
+Delhi,Rohini,Agricultural,560,12,29.1,0,0,0,11.89
+Lucknow,Gomti Nagar,Industrial,564,60,32.7,0,0,0,24.39
+Delhi,Dwarka,Agricultural,405,40,1.6,0,1,0,16.57
+Gurugram,Sohna Road,Commercial,2941,20,30.2,1,1,0,364.21
+Jaipur,Mansarovar,Commercial,2517,80,19.7,1,1,0,312.84
+Gurugram,Sohna Road,Residential,478,80,24.6,0,1,0,50.73
+Pune,Hinjewadi,Agricultural,425,60,4.8,0,1,0,12.96
+Jaipur,Vaishali Nagar,Residential,8715,80,18.1,0,1,0,781.5
+Gurugram,Manesar,Commercial,937,60,27.9,1,1,0,92.92
+Pune,Kothrud,Residential,1610,20,9.4,0,1,0,295.6
+Lucknow,Sultanpur Road,Industrial,1306,40,28.3,0,0,0,23.5
+Jaipur,Mansarovar,Commercial,457,12,13.3,0,1,0,37.35
+Gurugram,DLF Phase 3,Residential,2054,30,18.8,1,0,0,601.41
+Noida,Sector 18,Commercial,5321,40,15.0,0,1,0,1446.82
+Gurugram,Manesar,Residential,9441,20,9.8,1,1,0,619.02
+Pune,Hinjewadi,Residential,9128,40,24.3,1,1,0,811.33
+Delhi,Dwarka,Commercial,2456,30,11.3,0,1,0,570.17
+Noida,Greater Noida West,Residential,8294,40,17.3,1,1,0,446.54
+Delhi,Rohini,Agricultural,867,12,11.9,1,1,0,31.6
+Delhi,Saket,Residential,2959,80,5.1,1,1,1,1235.53
+Delhi,Saket,Residential,1146,20,34.7,0,1,0,239.72
+Gurugram,Manesar,Commercial,822,80,12.9,0,1,1,107.91
+Delhi,Narela,Commercial,5609,60,5.6,0,0,0,465.46
+Lucknow,Gomti Nagar,Industrial,3262,20,29.1,0,1,1,153.81
+Delhi,Narela,Residential,874,12,6.6,1,1,0,57.53
+Lucknow,Aliganj,Residential,555,30,2.3,1,1,0,35.41
+Gurugram,Golf Course Road,Industrial,1086,12,7.6,1,1,1,412.51
+Noida,Sector 150,Industrial,901,60,32.5,0,1,1,76.01
+Delhi,Dwarka,Commercial,1992,30,26.9,1,1,0,439.23
+Lucknow,Sultanpur Road,Residential,3362,40,25.6,0,1,0,87.58
+Delhi,Narela,Commercial,1965,60,27.8,0,1,0,170.65
+Gurugram,DLF Phase 3,Residential,917,20,4.5,1,1,0,318.26
+Delhi,Narela,Agricultural,549,40,4.5,0,1,0,8.38
+Delhi,Dwarka,Residential,643,60,9.1,0,1,0,109.37
+Gurugram,Manesar,Residential,928,40,12.2,0,0,0,53.48
+Jaipur,Jagatpura,Commercial,1194,40,21.4,1,1,1,97.53
+Lucknow,Gomti Nagar,Residential,1211,60,1.8,0,0,0,99.87
+Gurugram,Golf Course Road,Commercial,490,80,11.7,0,0,0,314.57
+Delhi,Rohini,Residential,3771,40,30.9,0,1,0,398.46
+Lucknow,Indira Nagar,Residential,2478,40,20.3,1,1,0,160.53
+Pune,Hinjewadi,Commercial,417,20,6.0,0,0,0,57.83
+Noida,Greater Noida West,Industrial,586,80,6.1,1,1,0,33.96
+Noida,Sector 18,Agricultural,8472,20,8.3,1,0,0,371.49
+Jaipur,Mansarovar,Residential,5295,30,23.0,0,0,1,252.37
+Gurugram,DLF Phase 3,Residential,9342,80,6.8,0,1,0,3535.65
+Delhi,Dwarka,Residential,3274,12,21.3,0,1,0,427.16
+Lucknow,Indira Nagar,Residential,554,30,9.1,1,1,1,37.81
+Gurugram,Golf Course Road,Industrial,2941,30,9.1,0,0,0,738.43
+Pune,Baner,Commercial,883,40,15.7,1,1,0,252.69
+Pune,Wagholi,Residential,2433,60,12.7,0,1,0,151.46
+Lucknow,Aliganj,Residential,5163,40,5.8,0,0,0,234.79
+Pune,Hinjewadi,Residential,1113,80,5.0,1,0,0,119.73
+Pune,Hinjewadi,Industrial,1117,30,11.0,0,1,0,81.04
+Lucknow,Aliganj,Commercial,3241,40,22.0,1,1,0,261.33
+Jaipur,Mansarovar,Residential,8674,40,32.0,0,0,0,393.14
+Pune,Hinjewadi,Residential,3262,12,32.2,0,1,0,234.2
+Noida,Greater Noida West,Agricultural,1574,40,10.6,0,1,0,21.54
+Pune,Hinjewadi,Residential,3548,30,32.7,0,1,0,251.73
+Lucknow,Indira Nagar,Residential,407,30,1.3,0,1,0,26.89
+Jaipur,Vaishali Nagar,Residential,5820,60,11.2,0,0,0,415.48
+Jaipur,Jagatpura,Agricultural,2197,20,31.9,0,1,0,19.47
+Delhi,Narela,Residential,2611,12,32.2,1,0,0,95.22
+Jaipur,Ajmer Road,Commercial,4907,30,4.8,1,1,0,303.9
+Delhi,Dwarka,Residential,494,30,14.4,1,1,0,81.92
+Noida,Sector 18,Agricultural,2197,40,2.1,0,0,0,92.7
+Noida,Sector 18,Residential,1166,40,21.3,0,1,0,212.38
+Lucknow,Sultanpur Road,Commercial,555,60,28.8,0,1,0,28.28
+Jaipur,Mansarovar,Residential,4886,20,4.2,1,0,0,272.88
+Pune,Wagholi,Commercial,1133,12,8.6,0,1,0,88.07
+Noida,Sector 18,Residential,8964,40,25.4,0,1,0,1534.33
+Noida,Sector 18,Residential,2626,80,17.9,0,1,0,555.63
+Delhi,Saket,Commercial,5517,80,33.6,0,1,0,2473.01
+Lucknow,Aliganj,Commercial,1235,20,4.2,0,1,0,109.04
+Gurugram,Manesar,Residential,5200,40,6.0,0,0,0,277.36
+Jaipur,Vaishali Nagar,Industrial,1485,20,13.5,1,1,0,96.19
+Noida,Sector 18,Residential,446,80,4.7,1,1,0,129.32
+Delhi,Saket,Commercial,1175,30,21.8,1,1,0,539.2
+Gurugram,Manesar,Residential,972,12,34.9,0,1,0,42.7
+Gurugram,Sohna Road,Residential,2961,30,26.6,0,1,0,246.74
+Gurugram,Manesar,Residential,602,20,9.8,0,1,0,40.17
+Noida,Sector 150,Residential,1638,12,16.2,1,1,0,183.35
+Pune,Baner,Residential,980,60,13.9,1,1,1,195.97
+Pune,Kothrud,Agricultural,419,60,34.2,1,1,0,17.49
+Pune,Kothrud,Agricultural,475,60,14.3,1,0,0,22.04
+Lucknow,Gomti Nagar,Residential,1243,30,27.8,0,1,0,76.51
+Pune,Baner,Commercial,1459,30,22.2,0,1,0,337.19
+Pune,Kothrud,Agricultural,604,20,31.6,1,1,0,23.39
+Lucknow,Sultanpur Road,Agricultural,1251,12,17.0,0,0,0,7.03
+Lucknow,Indira Nagar,Agricultural,612,40,2.5,0,1,0,10.65
+Jaipur,Ajmer Road,Agricultural,1403,30,17.6,1,0,0,11.03
+Noida,Sector 62,Residential,624,80,3.8,1,1,1,92.3
+Delhi,Saket,Residential,876,60,9.3,0,1,0,264.4
+Jaipur,Ajmer Road,Residential,8508,40,20.0,1,1,1,318.23
+Gurugram,Golf Course Road,Residential,8271,60,26.2,1,1,0,3495.29
+Lucknow,Sultanpur Road,Commercial,8192,12,21.4,0,1,0,315.36
+Gurugram,Manesar,Agricultural,1514,30,20.7,1,1,1,26.05
+Gurugram,DLF Phase 3,Commercial,440,40,29.3,0,1,0,189.41
+Lucknow,Aliganj,Industrial,865,60,34.4,0,1,1,32.42
+Delhi,Rohini,Commercial,2105,40,9.9,0,0,0,399.48
+Noida,Sector 18,Residential,492,60,20.5,1,0,1,104.2
+Delhi,Dwarka,Residential,1197,30,32.6,0,1,0,134.19
+Noida,Sector 62,Residential,1282,40,19.8,1,1,0,142.42
+Pune,Kothrud,Industrial,9296,60,23.5,0,1,0,1108.46
+Lucknow,Aliganj,Residential,1235,60,12.6,1,1,0,73.92
+Lucknow,Sultanpur Road,Residential,1508,60,34.2,1,1,0,48.03
+Noida,Greater Noida West,Industrial,1976,12,24.4,0,1,0,60.79
+Jaipur,Mansarovar,Industrial,573,40,26.6,0,1,0,24.43
+Jaipur,Jagatpura,Residential,1434,60,19.5,0,1,0,71.59
+Noida,Sector 150,Agricultural,1509,60,5.7,1,1,0,59.36
+Gurugram,Golf Course Road,Residential,558,20,34.2,1,1,0,189.17
+Jaipur,Vaishali Nagar,Commercial,8134,12,3.8,1,0,0,927.15
+Jaipur,Mansarovar,Industrial,8743,80,35.0,0,1,0,385.8
+Delhi,Saket,Agricultural,3525,80,33.2,0,1,1,248.56
+Lucknow,Gomti Nagar,Residential,3392,80,24.5,0,1,0,265.84
+Pune,Wagholi,Commercial,2820,20,3.5,0,1,0,257.32
+Gurugram,DLF Phase 3,Agricultural,5249,80,11.4,1,0,0,444.34
+Lucknow,Sultanpur Road,Residential,9016,40,3.8,0,1,0,309.92
+Gurugram,Golf Course Road,Residential,436,80,30.2,1,1,1,224.82
+Pune,Kothrud,Residential,1529,40,10.4,0,1,0,278.25
+Pune,Kothrud,Residential,552,40,6.0,1,1,0,118.39
+Gurugram,Manesar,Commercial,820,12,22.3,0,1,0,70.33
+Noida,Sector 62,Commercial,2783,12,15.2,0,1,0,382.4
+Delhi,Saket,Residential,2815,12,3.2,1,0,0,827.27
+Delhi,Rohini,Commercial,5007,60,25.6,1,0,0,1018.25
+Noida,Sector 150,Residential,5645,30,19.4,0,1,0,586.35
+Lucknow,Gomti Nagar,Agricultural,1508,40,34.4,1,0,0,20.84
+Gurugram,DLF Phase 3,Residential,541,30,3.4,0,1,1,204.72
+Gurugram,Golf Course Road,Industrial,3744,60,8.6,1,0,0,1214.84
+Lucknow,Indira Nagar,Residential,3704,20,1.8,0,0,0,192.67
+Lucknow,Sultanpur Road,Residential,4968,80,30.4,0,1,0,135.94
+Delhi,Rohini,Agricultural,5036,60,23.9,0,0,0,126.41
+Lucknow,Indira Nagar,Residential,2840,30,10.0,0,1,0,176.76
+Pune,Kothrud,Agricultural,5161,80,33.9,0,1,0,231.17
+Delhi,Saket,Industrial,1471,30,20.5,1,0,0,298.68
+Pune,Hinjewadi,Agricultural,3308,80,6.2,0,1,0,100.61
+Pune,Wagholi,Residential,5318,30,6.2,1,1,1,345.6
+Delhi,Rohini,Residential,1261,12,32.4,0,1,0,123.73
+Delhi,Narela,Industrial,2693,12,10.0,1,0,1,127.53
+Pune,Kothrud,Residential,459,30,28.4,1,1,0,74.01
+Lucknow,Aliganj,Residential,3366,80,3.6,0,1,1,197.36
+Noida,Greater Noida West,Commercial,1522,30,22.9,0,0,0,94.75
+Gurugram,Golf Course Road,Residential,970,80,11.9,1,1,0,448.66
+Pune,Hinjewadi,Residential,1815,80,26.0,1,1,0,192.07
+Pune,Wagholi,Commercial,1462,12,26.3,0,1,0,103.31
+Gurugram,DLF Phase 3,Commercial,5739,60,7.2,0,1,0,3278.2
+Delhi,Saket,Residential,1886,30,31.7,1,1,1,503.29
+Jaipur,Vaishali Nagar,Commercial,5169,12,3.0,0,1,0,617.97
+Delhi,Saket,Residential,622,80,2.9,0,0,0,203.91
+Lucknow,Sultanpur Road,Residential,1121,80,1.9,1,1,0,56.15
+Pune,Kothrud,Commercial,2638,30,2.6,0,1,0,815.59
+Noida,Sector 18,Residential,2813,60,29.9,1,1,0,549.03
+Jaipur,Ajmer Road,Commercial,5059,20,22.7,1,1,0,271.37
+Gurugram,Sohna Road,Residential,3742,20,13.3,1,1,1,417.59
+Noida,Greater Noida West,Commercial,558,40,18.0,1,0,1,47.01
+Jaipur,Vaishali Nagar,Industrial,1301,12,2.5,0,1,0,75.52
+Gurugram,Sohna Road,Agricultural,2524,80,13.0,1,1,0,84.38
+Gurugram,DLF Phase 3,Agricultural,949,60,2.3,0,1,0,92.57
+Lucknow,Indira Nagar,Commercial,9279,60,28.1,0,0,0,610.29
+Jaipur,Jagatpura,Commercial,2812,40,19.6,0,1,0,216.21
+Jaipur,Jagatpura,Agricultural,868,20,11.4,0,1,1,10.3
+Gurugram,DLF Phase 3,Commercial,1816,40,4.3,0,1,1,1138.88
+Gurugram,Manesar,Residential,3599,60,8.0,0,1,0,262.32
+Lucknow,Indira Nagar,Industrial,2553,80,27.7,0,1,1,129.99
+Jaipur,Vaishali Nagar,Commercial,540,40,34.8,0,1,0,52.68
+Noida,Greater Noida West,Residential,435,30,16.6,0,1,0,21.9
+Jaipur,Vaishali Nagar,Residential,2527,40,19.1,0,1,0,175.02
+Jaipur,Jagatpura,Residential,2136,60,4.6,1,1,1,152.58
+Gurugram,Manesar,Commercial,3839,80,28.7,1,1,0,436.18
+Jaipur,Mansarovar,Residential,1187,30,11.5,1,1,0,73.05
+Noida,Greater Noida West,Residential,1441,12,6.3,1,0,1,66.09
+Gurugram,Manesar,Commercial,419,12,32.8,1,1,0,34.49
+Jaipur,Jagatpura,Residential,8661,20,34.9,1,1,0,328.16
+Pune,Kothrud,Commercial,2100,40,25.7,1,0,0,506.52
+Pune,Wagholi,Commercial,1083,40,18.0,0,1,0,79.55
+Lucknow,Sultanpur Road,Residential,9369,80,1.0,1,1,0,382.02
+Gurugram,DLF Phase 3,Residential,5654,30,34.0,0,1,0,1295.08
+Noida,Greater Noida West,Agricultural,491,30,8.5,1,1,0,7.61
+Gurugram,Golf Course Road,Residential,2730,60,7.0,0,1,0,1180.01
+Jaipur,Vaishali Nagar,Agricultural,637,40,24.7,0,1,0,11.68
+Lucknow,Gomti Nagar,Residential,2147,40,23.5,1,0,1,125.08
+Gurugram,Golf Course Road,Industrial,1591,80,23.2,1,1,0,525.62
+Noida,Sector 150,Residential,1447,20,30.3,1,1,0,146.64
+Noida,Sector 150,Residential,425,12,4.1,1,1,0,54.6
+Delhi,Narela,Residential,968,30,4.6,0,0,0,54.43
+Noida,Greater Noida West,Commercial,2454,30,1.3,0,1,1,232.76
+Noida,Sector 18,Residential,442,12,24.0,0,0,1,68.45
+Gurugram,Sohna Road,Residential,952,30,11.8,0,1,0,95.01
+Jaipur,Jagatpura,Residential,3892,80,29.1,0,1,0,184.81
+Lucknow,Indira Nagar,Residential,933,20,4.0,0,1,0,48.72
+Noida,Greater Noida West,Residential,818,12,4.0,0,1,0,47.58
+Delhi,Narela,Residential,2684,20,1.0,0,1,0,161.5
+Delhi,Narela,Commercial,5314,60,17.6,0,1,0,432.78
+Pune,Baner,Residential,3540,12,1.1,0,1,0,561.61
+Jaipur,Vaishali Nagar,Residential,477,60,25.4,0,1,0,32.42
+Pune,Wagholi,Residential,1458,12,18.9,0,1,0,66.28
+Lucknow,Gomti Nagar,Agricultural,437,20,14.6,1,1,0,7.5
+Noida,Sector 150,Industrial,8800,12,2.3,0,0,0,684.16
+Pune,Baner,Commercial,646,20,15.0,1,0,0,146.74
+Delhi,Dwarka,Residential,5318,20,17.1,1,0,0,609.72
+Noida,Sector 18,Commercial,843,30,5.6,0,1,1,324.69
+Jaipur,Jagatpura,Agricultural,3927,30,7.8,1,0,0,40.79
+Jaipur,Vaishali Nagar,Residential,481,60,12.8,1,1,0,47.86
+Noida,Greater Noida West,Agricultural,5478,20,21.8,0,0,0,51.14
+Gurugram,DLF Phase 3,Industrial,543,12,17.6,0,0,0,111.62
+Gurugram,Sohna Road,Commercial,1180,80,28.4,0,1,0,202.97
+Jaipur,Vaishali Nagar,Residential,1169,20,31.2,1,0,0,66.65
+Gurugram,DLF Phase 3,Agricultural,2171,40,11.5,0,0,0,152.78
+Pune,Kothrud,Residential,9080,80,20.2,1,0,0,1529.73
+Noida,Greater Noida West,Industrial,932,30,17.5,0,1,0,39.17
+Jaipur,Jagatpura,Residential,3295,60,8.4,0,1,0,190.82
+Jaipur,Vaishali Nagar,Residential,1897,12,25.7,0,1,0,118.77
+Jaipur,Vaishali Nagar,Commercial,1356,40,28.8,0,1,0,169.39
+Lucknow,Gomti Nagar,Residential,2173,60,20.6,0,1,0,173.19
+Gurugram,Sohna Road,Agricultural,3907,60,6.2,0,1,0,105.49
+Pune,Wagholi,Residential,3256,40,5.4,0,1,0,197.05
+Lucknow,Gomti Nagar,Residential,1121,60,7.4,0,1,0,98.21
+Gurugram,DLF Phase 3,Industrial,1533,30,1.1,0,1,0,415.53
+Jaipur,Ajmer Road,Residential,975,80,15.3,1,1,0,42.49
+Pune,Wagholi,Residential,2475,80,2.6,1,1,0,182.97
+Noida,Sector 62,Residential,2010,60,6.9,1,1,0,263.77
+Delhi,Dwarka,Industrial,3860,20,14.1,1,1,0,420.22
+Gurugram,Manesar,Industrial,2644,80,3.3,0,1,1,183.23
+Noida,Sector 18,Residential,1234,60,9.9,0,1,1,241.91
+Noida,Greater Noida West,Residential,2943,30,15.9,0,0,0,127.9
+Lucknow,Sultanpur Road,Industrial,546,30,6.8,0,0,0,11.31
+Pune,Hinjewadi,Residential,2019,60,27.6,1,1,0,188.97
+Lucknow,Gomti Nagar,Commercial,981,40,31.8,0,1,0,93.6
+Noida,Sector 150,Agricultural,4978,40,18.3,0,1,0,130.84
+Noida,Sector 62,Residential,633,60,18.6,0,0,0,53.55
+Pune,Kothrud,Residential,5494,80,14.4,0,1,0,1070.98
+Noida,Sector 18,Residential,650,60,14.4,1,0,0,135.42
+Pune,Wagholi,Agricultural,3692,20,15.6,1,0,0,37.86
+Gurugram,Manesar,Commercial,2646,30,28.8,0,0,0,186.29
+Lucknow,Gomti Nagar,Industrial,5409,30,17.0,0,1,0,264.69
+Jaipur,Vaishali Nagar,Commercial,2866,12,22.0,0,0,0,225.06
+Noida,Sector 150,Residential,941,80,26.9,0,0,0,103.23
+Gurugram,Sohna Road,Agricultural,3792,80,8.0,1,0,1,124.64
+Delhi,Rohini,Residential,655,60,27.4,0,1,0,76.51
+Pune,Baner,Commercial,2464,20,30.1,0,1,0,459.51
+Noida,Greater Noida West,Commercial,1640,12,31.4,0,1,0,98.57
+Pune,Kothrud,Agricultural,1928,40,17.9,0,1,0,81.1
+Noida,Sector 150,Agricultural,1934,12,10.1,0,0,0,47.67
+Jaipur,Vaishali Nagar,Industrial,2111,80,8.6,0,1,1,161.21
+Jaipur,Vaishali Nagar,Residential,2588,60,26.7,0,1,0,190.52
+Jaipur,Vaishali Nagar,Residential,2878,30,28.7,0,1,0,190.92
+Lucknow,Indira Nagar,Residential,967,80,18.4,1,1,0,65.79
+Gurugram,Sohna Road,Commercial,1283,80,27.0,0,1,0,218.58
+Delhi,Saket,Agricultural,3704,40,24.0,0,1,0,245.66
+Gurugram,Manesar,Residential,631,40,1.6,0,1,0,44.53
+Pune,Hinjewadi,Agricultural,2818,80,21.8,0,0,0,57.16
+Noida,Greater Noida West,Agricultural,1985,20,13.3,1,1,0,24.96
+Pune,Kothrud,Residential,2109,60,18.6,0,0,0,325.51
+Delhi,Rohini,Residential,8421,60,22.9,0,0,0,868.06
+Noida,Sector 18,Residential,8486,60,29.0,0,1,0,1510.99
+Jaipur,Ajmer Road,Industrial,864,12,15.4,0,1,0,22.88
+Delhi,Rohini,Industrial,893,30,22.1,1,1,0,100.35
+Lucknow,Sultanpur Road,Residential,420,12,32.9,0,1,0,9.57
+Gurugram,Manesar,Residential,652,20,30.5,1,1,0,36.39
+Gurugram,Manesar,Commercial,431,20,8.8,0,1,0,41.75
+Delhi,Saket,Residential,2831,12,25.7,1,1,0,744.66
+Noida,Sector 62,Residential,3707,20,24.5,0,1,0,297.78
+Gurugram,DLF Phase 3,Residential,579,60,3.7,1,1,1,243.06
+Noida,Sector 18,Commercial,636,20,8.3,0,1,1,207.08
+Gurugram,Manesar,Residential,919,30,25.6,0,1,0,52.38
+Lucknow,Sultanpur Road,Residential,2104,30,11.2,1,1,0,74.73
+Delhi,Dwarka,Commercial,3567,80,6.0,0,1,0,1096.74
+Delhi,Dwarka,Residential,633,30,4.6,0,0,0,87.83
+Pune,Hinjewadi,Commercial,3511,80,3.1,1,1,0,806.22
+Noida,Greater Noida West,Agricultural,1262,20,1.8,1,1,0,19.29
+Gurugram,Sohna Road,Residential,931,12,1.8,0,0,0,90.31
+Noida,Greater Noida West,Commercial,9835,80,15.5,0,0,1,787.43
+Pune,Wagholi,Industrial,1438,30,7.2,0,0,0,47.29
+Delhi,Rohini,Industrial,2702,60,14.2,1,0,0,285.58
+Delhi,Narela,Commercial,895,80,16.5,0,0,0,77.61
+Gurugram,Sohna Road,Residential,489,30,13.4,0,0,0,39.51
+Jaipur,Jagatpura,Residential,1132,80,7.4,0,1,0,66.7
+Jaipur,Jagatpura,Agricultural,5296,40,19.7,0,0,0,46.18
+Gurugram,Sohna Road,Residential,9056,20,20.7,1,1,1,875.85
+Gurugram,Manesar,Residential,1319,12,9.8,0,1,0,73.82
+Jaipur,Vaishali Nagar,Agricultural,436,60,27.0,0,0,0,6.82
+Lucknow,Indira Nagar,Agricultural,3326,60,28.5,0,1,0,40.32
+Jaipur,Ajmer Road,Commercial,3942,20,20.4,0,1,1,213.33
+Jaipur,Mansarovar,Agricultural,2844,80,9.2,0,1,0,56.38
+Delhi,Narela,Residential,1648,20,19.0,0,0,0,66.46
+Delhi,Saket,Agricultural,1448,80,26.1,1,1,0,120.12
+Jaipur,Mansarovar,Residential,3336,20,13.4,0,1,0,181.76
+Delhi,Dwarka,Residential,2474,80,15.1,0,1,0,406.5
+Delhi,Rohini,Agricultural,5311,30,14.1,0,1,0,154.34
+Jaipur,Ajmer Road,Residential,5421,12,8.7,0,1,0,176.54
+Jaipur,Jagatpura,Residential,5650,80,21.1,0,1,0,237.69
+Pune,Wagholi,Residential,1594,12,2.8,0,1,0,91.78
+Jaipur,Vaishali Nagar,Commercial,5796,40,6.9,0,1,0,875.2
+Delhi,Rohini,Commercial,2659,12,23.2,0,1,0,459.84
+Pune,Wagholi,Agricultural,465,40,3.6,0,1,0,7.19
+Noida,Sector 62,Industrial,8608,20,7.2,0,0,0,617.8
+Jaipur,Ajmer Road,Residential,434,20,10.9,0,1,1,15.94
+Jaipur,Vaishali Nagar,Residential,934,12,5.7,1,1,0,85.03
+Delhi,Dwarka,Agricultural,843,80,10.0,1,1,0,43.48
+Jaipur,Ajmer Road,Commercial,5814,12,25.7,0,1,0,270.23
+Pune,Kothrud,Commercial,1182,40,24.8,0,1,0,298.04
+Gurugram,Manesar,Agricultural,1959,12,33.0,0,1,0,22.77
+Jaipur,Vaishali Nagar,Commercial,1235,40,21.8,1,1,1,189.19
+Pune,Wagholi,Residential,5052,60,5.0,1,1,0,296.29
+Pune,Hinjewadi,Commercial,5197,60,3.7,1,1,0,1008.56
+Gurugram,Manesar,Industrial,2059,30,3.6,0,1,0,109.64
+Pune,Wagholi,Commercial,1368,60,34.8,1,0,0,97.74
+Pune,Baner,Industrial,3338,60,27.9,1,1,0,425.06
+Delhi,Rohini,Residential,5130,30,19.0,0,0,0,463.22
+Lucknow,Aliganj,Residential,3494,20,17.6,1,1,0,170.93
+Delhi,Rohini,Residential,1214,12,24.2,1,1,0,145.36
+Delhi,Narela,Residential,1164,12,5.6,1,1,0,77.95
+Noida,Greater Noida West,Commercial,2895,12,10.7,0,0,0,206.8
+Noida,Sector 18,Residential,5455,12,17.6,0,1,0,799.5
+Noida,Greater Noida West,Commercial,1637,80,29.9,0,1,0,133.69
+Jaipur,Vaishali Nagar,Residential,9155,30,20.1,1,1,0,770.84
+Delhi,Dwarka,Commercial,5239,20,12.4,0,0,1,965.88
+Delhi,Saket,Residential,1638,60,21.7,0,1,0,526.43
+Jaipur,Vaishali Nagar,Residential,2003,30,8.4,0,1,0,157.43
+Noida,Greater Noida West,Commercial,410,60,15.5,0,1,0,36.5
+Gurugram,DLF Phase 3,Residential,3613,12,32.4,1,1,0,942.84
+Jaipur,Ajmer Road,Residential,1626,40,6.8,0,1,0,69.8
+Lucknow,Aliganj,Residential,821,80,3.2,0,1,0,54.65
+Noida,Greater Noida West,Residential,1510,30,12.3,1,1,0,85.05
+Gurugram,Sohna Road,Residential,1560,30,15.6,0,1,0,136.43
+Gurugram,DLF Phase 3,Agricultural,9130,60,6.6,1,1,0,854.29
+Jaipur,Mansarovar,Commercial,418,20,3.6,0,1,0,39.84
+Jaipur,Jagatpura,Agricultural,1253,80,4.6,0,1,1,21.56
+Noida,Sector 18,Residential,969,12,5.5,1,1,0,202.9
+Lucknow,Sultanpur Road,Residential,1576,20,29.9,1,1,0,40.29
+Gurugram,Sohna Road,Residential,1426,60,24.5,0,0,0,96.29
+Noida,Sector 62,Industrial,1133,12,2.8,0,1,0,89.26
+Pune,Wagholi,Residential,2826,80,15.7,1,0,0,160.13
+Lucknow,Aliganj,Residential,409,12,1.8,1,0,0,19.4
+Jaipur,Jagatpura,Commercial,1247,12,10.5,0,0,0,66.43
+Delhi,Saket,Residential,2445,12,6.8,0,1,1,632.46
+Noida,Greater Noida West,Residential,3614,40,17.0,0,0,0,142.19
+Gurugram,DLF Phase 3,Agricultural,2576,20,34.9,0,1,0,139.45
+Gurugram,Golf Course Road,Residential,1520,20,14.8,1,0,1,550.14
+Delhi,Narela,Residential,948,60,21.5,0,1,1,52.61
+Delhi,Dwarka,Residential,1865,30,27.9,0,0,1,203.66
+Lucknow,Indira Nagar,Residential,3664,60,12.8,1,1,1,250.51
+Gurugram,Manesar,Residential,8876,60,7.9,0,1,0,579.9
+Lucknow,Sultanpur Road,Residential,1396,20,15.7,0,1,0,43.65
+Noida,Sector 18,Agricultural,3889,20,28.4,1,1,0,160.82
+Jaipur,Jagatpura,Residential,8699,60,14.0,0,0,0,420.28
+Pune,Hinjewadi,Residential,3410,30,31.6,0,1,0,252.23
+Gurugram,Sohna Road,Industrial,3851,12,5.3,1,0,1,314.39
+Gurugram,Manesar,Residential,3242,12,3.7,0,1,0,189.65
+Gurugram,DLF Phase 3,Residential,1148,12,9.1,0,1,0,357.81
+Delhi,Narela,Residential,1643,20,11.9,0,1,0,82.39
+Lucknow,Gomti Nagar,Residential,3796,40,25.1,0,0,0,221.15
+Delhi,Rohini,Commercial,561,40,20.8,1,1,0,130.61
+Lucknow,Sultanpur Road,Commercial,848,40,21.4,1,1,1,42.94
+Pune,Kothrud,Residential,439,20,25.5,0,1,0,61.07
+Jaipur,Jagatpura,Residential,596,40,27.4,1,1,0,28.93
+Noida,Greater Noida West,Residential,8913,30,30.5,0,0,0,294.09
+Gurugram,Sohna Road,Commercial,1410,40,26.4,1,1,0,206.71
+Pune,Wagholi,Commercial,1593,60,14.3,0,1,0,156.05
+Lucknow,Aliganj,Commercial,1985,12,23.2,0,1,1,132.71
+Lucknow,Indira Nagar,Agricultural,5636,20,20.6,0,1,0,64.15
+Noida,Sector 150,Residential,3566,12,24.5,0,1,0,324.47
+Noida,Sector 18,Residential,973,80,29.0,0,1,0,172.03
+Noida,Sector 150,Agricultural,1473,20,31.7,1,1,0,35.9
+Delhi,Narela,Residential,3648,40,23.7,0,0,0,162.92
+Noida,Greater Noida West,Residential,8224,30,6.0,0,1,0,437.11
+Lucknow,Gomti Nagar,Residential,3604,30,12.6,0,1,1,270.53
+Lucknow,Aliganj,Residential,409,80,19.0,0,1,0,23.88
+Delhi,Saket,Residential,421,60,25.4,0,1,1,121.26
+Pune,Wagholi,Residential,559,30,10.9,0,1,0,32.13
+Jaipur,Jagatpura,Commercial,3613,40,7.7,0,0,0,260.29
+Delhi,Narela,Residential,9258,60,9.1,1,1,0,706.26
+Noida,Sector 18,Commercial,430,60,17.0,1,1,1,161.92
+Pune,Hinjewadi,Commercial,429,30,30.3,0,0,0,45.4
+Jaipur,Ajmer Road,Agricultural,9062,40,16.4,0,0,0,69.75
+Gurugram,DLF Phase 3,Residential,1168,20,31.3,1,1,0,322.75
+Gurugram,Manesar,Commercial,1648,80,29.5,0,1,0,167.45
+Lucknow,Indira Nagar,Residential,4901,20,21.7,0,1,0,234.46
+Pune,Kothrud,Residential,614,12,21.1,0,1,0,85.26
+Pune,Baner,Agricultural,5719,12,1.4,0,1,0,242.33
+Pune,Hinjewadi,Residential,1141,30,14.0,0,1,0,98.66
+Noida,Sector 150,Residential,1535,60,28.6,0,1,0,175.12
+Gurugram,Golf Course Road,Residential,1275,80,28.0,0,0,0,358.33
+Pune,Wagholi,Industrial,8443,60,12.9,1,1,0,404.28
+Gurugram,Golf Course Road,Commercial,2054,12,31.2,0,0,0,758.14
+Lucknow,Sultanpur Road,Commercial,2559,30,9.4,1,1,1,161.4
+Jaipur,Jagatpura,Residential,3559,80,3.8,0,0,0,180.55
+Delhi,Dwarka,Industrial,1496,20,7.1,0,1,0,156.08
+Pune,Wagholi,Residential,5218,40,27.3,1,0,0,239.77
+Pune,Hinjewadi,Residential,8550,30,31.1,0,1,0,581.81
+Gurugram,DLF Phase 3,Residential,843,12,32.9,0,0,0,150.63
+Lucknow,Aliganj,Residential,1094,60,14.8,0,1,0,57.77
+Pune,Hinjewadi,Agricultural,1426,20,9.0,0,0,0,30.77
+Noida,Sector 62,Agricultural,1956,12,2.8,0,0,0,45.98
+Pune,Baner,Residential,2441,20,23.3,0,0,0,263.31
+Pune,Wagholi,Residential,1581,40,6.2,1,0,0,87.24
+Lucknow,Sultanpur Road,Commercial,1272,12,32.4,1,1,0,47.24
+Lucknow,Aliganj,Commercial,2001,60,5.8,1,1,0,206.46
+Noida,Sector 150,Agricultural,9016,30,5.0,0,1,0,270.72
+Noida,Sector 150,Residential,2476,80,23.1,0,1,0,293.51
+Delhi,Saket,Agricultural,2196,30,5.3,1,0,0,148.96
+Delhi,Saket,Agricultural,615,60,6.2,1,1,0,68.14
+Jaipur,Mansarovar,Residential,1173,30,14.2,1,0,0,69.16
+Pune,Baner,Residential,1532,40,22.9,0,1,0,240.87
+Lucknow,Aliganj,Residential,2520,60,22.5,1,1,0,144.65
+Jaipur,Mansarovar,Residential,1879,60,33.2,0,0,0,85.28
+Pune,Hinjewadi,Agricultural,420,40,12.1,0,0,0,8.45
+Gurugram,Golf Course Road,Agricultural,2637,60,22.8,0,1,0,271.05
+Delhi,Rohini,Industrial,5445,20,2.2,0,0,0,541.18
+Jaipur,Vaishali Nagar,Agricultural,415,60,34.3,1,1,1,7.46
+Noida,Sector 62,Residential,659,30,10.4,0,1,0,65.49
+Noida,Greater Noida West,Agricultural,8890,20,31.2,1,1,0,90.3
+Jaipur,Ajmer Road,Commercial,1956,40,1.4,1,1,1,150.54
+Noida,Sector 62,Residential,3419,30,6.0,1,1,0,385.59
+Jaipur,Ajmer Road,Industrial,1297,40,18.7,0,1,0,36.45
+Lucknow,Indira Nagar,Residential,482,60,17.9,1,1,0,28.93
+Lucknow,Sultanpur Road,Industrial,1250,40,25.6,1,1,1,32.87
+Gurugram,Golf Course Road,Commercial,651,40,6.9,1,0,0,421.85
+Lucknow,Gomti Nagar,Agricultural,620,60,8.6,0,0,0,12.15
+Noida,Greater Noida West,Commercial,1475,40,3.9,1,0,1,140.39
+Gurugram,Golf Course Road,Industrial,5197,12,27.0,0,1,0,1317.32
+Gurugram,Manesar,Residential,560,40,2.6,1,0,1,39.31
+Delhi,Dwarka,Industrial,1306,30,23.6,0,1,1,134.79
+Lucknow,Indira Nagar,Residential,2539,40,19.6,0,0,0,124.54
+Delhi,Saket,Residential,5567,40,27.0,0,1,0,1370.09
+Jaipur,Vaishali Nagar,Residential,8907,80,23.7,1,1,0,802.28
+Jaipur,Mansarovar,Agricultural,5063,30,17.4,0,1,0,74.26
+Delhi,Rohini,Agricultural,1965,30,4.5,1,1,1,82.72
+Lucknow,Gomti Nagar,Residential,3433,40,22.7,0,1,1,214.6
+Delhi,Dwarka,Commercial,3686,60,16.2,0,1,0,952.73
+Jaipur,Mansarovar,Residential,1626,12,8.9,0,1,0,103.81
+Gurugram,DLF Phase 3,Residential,1421,80,32.3,0,1,0,443.09
+Lucknow,Sultanpur Road,Agricultural,976,80,8.3,0,1,0,8.84
+Lucknow,Gomti Nagar,Residential,2532,20,3.6,0,0,0,156.94
+Delhi,Rohini,Industrial,9116,20,14.0,1,1,0,946.01
+Jaipur,Mansarovar,Commercial,1093,60,3.4,1,1,0,150.43
+Lucknow,Sultanpur Road,Commercial,463,60,14.5,0,1,0,26.66
+Pune,Wagholi,Commercial,5703,60,32.1,0,1,0,411.89
+Pune,Hinjewadi,Commercial,1918,20,11.1,0,1,0,279.57
+Pune,Wagholi,Agricultural,890,80,9.8,0,1,0,15.22
+Delhi,Saket,Residential,3632,12,15.1,0,1,0,828.29
+Delhi,Rohini,Residential,1225,60,28.5,0,1,0,144.4
+Gurugram,Manesar,Commercial,8510,80,14.7,0,1,0,862.94
+Pune,Hinjewadi,Residential,2850,80,10.8,1,1,0,311.55
+Jaipur,Vaishali Nagar,Residential,3669,12,24.4,0,1,0,210.01
+Gurugram,Golf Course Road,Commercial,5734,12,20.9,0,1,0,2972.71
+Pune,Hinjewadi,Residential,8977,20,28.9,0,0,0,544.11
+Pune,Hinjewadi,Residential,8244,60,9.3,0,1,1,885.39
+Pune,Wagholi,Agricultural,810,60,8.0,1,1,0,11.95
+Pune,Wagholi,Residential,1410,12,14.6,0,0,0,54.85
+Delhi,Dwarka,Industrial,1546,12,6.5,1,1,0,184.53
+Lucknow,Aliganj,Agricultural,907,20,30.0,0,1,0,9.78
+Jaipur,Jagatpura,Residential,1604,60,7.8,1,1,0,96.72
+Pune,Wagholi,Commercial,1472,80,3.8,1,1,0,173.26
+Gurugram,Sohna Road,Industrial,582,80,7.6,0,1,0,64.86
+Delhi,Saket,Agricultural,8548,40,21.7,0,1,0,551.58
+Delhi,Rohini,Residential,918,20,26.5,0,1,1,110.01
+Gurugram,Manesar,Industrial,483,40,27.6,1,1,0,21.76
+Pune,Baner,Commercial,5656,30,32.0,0,1,0,1159.87
+Jaipur,Jagatpura,Agricultural,641,20,24.2,1,1,0,7.25
+Pune,Kothrud,Commercial,5157,30,34.5,0,0,0,956.0
+Noida,Sector 18,Commercial,1432,40,10.6,0,1,0,475.52
+Pune,Baner,Residential,1803,40,27.8,0,1,0,257.27
+Jaipur,Mansarovar,Residential,1618,30,5.6,1,1,0,119.76
+Jaipur,Ajmer Road,Residential,1144,40,17.1,1,1,0,47.46
+Noida,Sector 18,Residential,2808,40,7.8,0,1,0,592.62
+Gurugram,Golf Course Road,Residential,1856,80,21.6,1,1,1,946.75
+Lucknow,Gomti Nagar,Commercial,2600,80,2.2,1,1,0,396.59
+Delhi,Rohini,Residential,3456,40,20.6,0,1,0,416.34
+Gurugram,Golf Course Road,Industrial,9064,40,25.4,0,1,0,2318.66
+Delhi,Dwarka,Residential,8556,30,23.5,1,1,0,1122.73
+Lucknow,Aliganj,Commercial,5290,60,8.9,1,1,1,602.67
+Delhi,Dwarka,Residential,1549,80,15.8,0,0,1,256.86
+Jaipur,Ajmer Road,Industrial,8665,80,33.1,1,1,0,256.11
+Noida,Sector 62,Commercial,4945,80,29.9,1,1,0,846.97
+Noida,Sector 62,Commercial,2171,12,28.1,1,1,0,279.86
+Gurugram,Golf Course Road,Commercial,5637,30,16.6,1,1,0,3574.36
+Jaipur,Jagatpura,Residential,815,60,16.9,1,1,1,44.32
+Jaipur,Ajmer Road,Residential,1220,60,18.2,0,1,0,47.57
+Jaipur,Ajmer Road,Residential,836,40,17.8,1,1,0,35.22
+Gurugram,Manesar,Commercial,927,80,4.5,1,1,0,136.81
+Noida,Sector 18,Agricultural,5634,20,23.5,1,1,0,214.83
+Pune,Kothrud,Agricultural,3621,20,7.5,1,1,0,178.14
+Pune,Kothrud,Agricultural,9437,12,5.6,1,1,1,469.91
+Pune,Baner,Residential,1436,80,18.0,0,1,0,256.68
+Lucknow,Gomti Nagar,Residential,1478,40,28.1,1,1,0,110.09
+Pune,Hinjewadi,Residential,9235,80,2.3,1,0,0,1100.27
+Pune,Kothrud,Residential,613,12,31.0,1,1,1,98.01
+Jaipur,Ajmer Road,Residential,3797,12,13.3,1,0,1,121.62
+Lucknow,Aliganj,Residential,1445,60,30.5,0,0,0,63.02
+Pune,Kothrud,Residential,3835,60,10.4,1,1,0,821.96
+Delhi,Saket,Industrial,1422,30,25.7,0,0,1,260.9
+Noida,Sector 18,Industrial,813,20,18.3,1,1,0,118.89
+Noida,Sector 18,Commercial,1913,80,22.6,0,0,1,616.64
+Lucknow,Indira Nagar,Residential,4925,40,3.6,0,1,0,342.26
+Lucknow,Sultanpur Road,Agricultural,434,20,12.0,0,1,0,3.24
+Noida,Greater Noida West,Agricultural,895,40,10.1,0,1,0,12.53
+Gurugram,DLF Phase 3,Residential,5849,40,11.2,1,1,0,1918.99
+Delhi,Dwarka,Commercial,948,60,17.6,0,1,0,227.88
+Lucknow,Aliganj,Residential,1278,30,29.7,1,1,0,58.09
+Jaipur,Vaishali Nagar,Residential,919,60,14.4,0,0,1,71.43
+Lucknow,Gomti Nagar,Residential,2640,30,7.5,0,1,0,187.19
+Gurugram,Golf Course Road,Commercial,936,30,27.7,0,1,0,522.3
+Noida,Sector 150,Industrial,2674,30,21.6,0,1,0,209.73
+Pune,Wagholi,Residential,2540,30,31.3,0,1,1,118.19
+Lucknow,Gomti Nagar,Residential,569,30,12.9,1,1,1,48.32
+Jaipur,Vaishali Nagar,Commercial,5531,80,4.3,0,0,0,821.87
+Pune,Wagholi,Agricultural,614,60,21.8,0,1,1,8.16
+Noida,Sector 62,Residential,2561,20,1.9,0,1,0,250.86
+Pune,Kothrud,Commercial,1940,80,1.1,0,0,1,659.2
+Delhi,Saket,Residential,3415,40,1.6,0,1,0,1260.2
+Pune,Kothrud,Residential,1434,30,22.3,0,1,0,228.61
+Lucknow,Indira Nagar,Agricultural,2076,30,17.7,0,1,0,27.11
+Jaipur,Vaishali Nagar,Industrial,816,30,6.7,0,1,0,64.01
+Gurugram,Golf Course Road,Residential,1110,60,15.1,1,1,1,586.46
+Gurugram,Golf Course Road,Commercial,604,80,22.4,1,1,0,437.96
+Lucknow,Indira Nagar,Residential,5549,40,20.1,1,1,0,286.55
+Pune,Wagholi,Residential,1843,80,8.1,1,0,0,111.58
+Pune,Hinjewadi,Industrial,4888,30,33.8,1,1,0,321.07
+Gurugram,Golf Course Road,Residential,973,40,28.7,0,1,0,344.53
+Delhi,Dwarka,Residential,1116,60,10.7,0,1,0,161.88
+Lucknow,Gomti Nagar,Agricultural,481,12,17.0,1,1,0,9.56
+Noida,Sector 62,Agricultural,2931,30,6.6,1,1,0,81.49
+Lucknow,Gomti Nagar,Residential,3443,60,34.3,1,1,0,234.42
+Pune,Kothrud,Agricultural,1472,12,29.1,1,1,0,56.34
+Gurugram,Sohna Road,Residential,2014,80,31.7,0,1,0,191.79
+Noida,Sector 18,Residential,5486,80,21.8,0,1,0,1111.44
+Noida,Sector 62,Commercial,462,30,19.6,1,1,0,79.83
+Lucknow,Sultanpur Road,Commercial,1129,60,4.8,0,1,1,72.15
+Noida,Sector 150,Agricultural,431,12,32.3,0,1,0,9.04
+Noida,Sector 18,Residential,1898,30,24.9,1,1,0,329.74
+Lucknow,Indira Nagar,Residential,2551,12,12.5,1,1,0,153.07
+Delhi,Rohini,Industrial,3688,20,31.4,1,1,0,326.33
+Lucknow,Indira Nagar,Residential,1154,40,1.1,0,1,0,78.44
+Noida,Sector 18,Agricultural,9899,40,27.1,0,1,1,413.05
+Pune,Baner,Residential,1203,20,23.4,0,0,0,146.71
+Noida,Greater Noida West,Residential,420,80,6.1,1,1,0,31.21
+Jaipur,Ajmer Road,Residential,433,20,12.3,0,1,1,16.39
+Delhi,Narela,Agricultural,916,40,31.9,1,1,0,12.09
+Pune,Baner,Residential,897,20,13.9,1,0,0,124.95
+Pune,Hinjewadi,Residential,547,12,6.3,0,0,0,49.58
+Pune,Wagholi,Industrial,5650,80,26.0,0,1,0,222.11
+Gurugram,Sohna Road,Residential,2442,20,11.2,0,1,0,227.74
+Noida,Sector 150,Commercial,1810,40,18.4,1,1,0,349.62
+Lucknow,Gomti Nagar,Industrial,643,60,9.8,0,1,1,46.75
+Noida,Sector 150,Residential,8992,80,34.8,0,0,0,886.44
+Delhi,Dwarka,Agricultural,440,12,21.7,1,1,0,13.46
+Delhi,Saket,Residential,420,30,21.6,1,1,0,133.01
+Delhi,Saket,Residential,2591,20,31.0,1,1,0,637.8
+Lucknow,Indira Nagar,Agricultural,594,40,12.7,0,1,1,10.19
+Gurugram,Golf Course Road,Residential,9324,30,29.2,0,1,0,3010.12
+Lucknow,Gomti Nagar,Industrial,881,12,29.4,0,1,0,39.46
+Noida,Sector 18,Residential,615,30,13.6,0,1,0,115.41
+Delhi,Narela,Commercial,409,30,18.0,0,1,0,37.92
+Pune,Hinjewadi,Industrial,1898,12,23.1,0,1,1,129.74
+Noida,Greater Noida West,Residential,1261,40,33.3,1,1,0,59.72
+Pune,Baner,Agricultural,557,30,18.8,0,1,0,20.82
+Pune,Baner,Commercial,2571,30,15.5,1,1,0,696.3
+Jaipur,Jagatpura,Residential,464,12,5.6,0,1,0,20.09
+Lucknow,Aliganj,Industrial,1128,40,29.9,1,1,0,41.6
+Jaipur,Jagatpura,Agricultural,425,40,9.9,1,1,1,5.63
+Pune,Wagholi,Industrial,1410,12,31.9,0,1,0,42.45
+Noida,Sector 150,Agricultural,492,12,6.6,1,1,0,13.65
+Pune,Baner,Residential,837,20,27.8,1,0,0,101.02
+Gurugram,Manesar,Agricultural,2816,80,1.8,1,0,0,52.23
+Pune,Wagholi,Residential,586,12,30.6,1,1,0,26.22
+Gurugram,Manesar,Agricultural,5923,30,30.2,1,1,0,77.39
+Noida,Greater Noida West,Commercial,8950,80,27.6,0,1,1,741.38
+Jaipur,Jagatpura,Residential,1986,60,12.0,0,1,0,110.49
+Noida,Sector 62,Residential,845,20,23.3,1,0,0,70.93
+Pune,Kothrud,Residential,935,40,30.6,1,1,0,152.95
+Pune,Wagholi,Commercial,2854,40,34.7,1,1,0,193.62
+Delhi,Narela,Residential,9637,12,33.1,1,0,0,361.97
+Noida,Sector 150,Agricultural,1852,12,26.1,0,1,0,42.59
+Pune,Wagholi,Industrial,5354,12,28.1,1,1,0,195.44
+Jaipur,Vaishali Nagar,Agricultural,1225,30,5.1,0,1,0,24.95
+Pune,Kothrud,Residential,3907,40,22.3,0,0,0,466.53
+Delhi,Dwarka,Commercial,5389,80,12.3,0,1,1,1556.32
+Delhi,Dwarka,Industrial,560,20,18.4,1,1,0,65.53
+Jaipur,Jagatpura,Residential,1876,20,12.3,1,1,0,96.71
+Delhi,Narela,Residential,2008,12,5.2,0,1,0,117.41
+Jaipur,Vaishali Nagar,Residential,5918,40,14.1,0,1,0,455.19
+Noida,Greater Noida West,Residential,2558,40,24.2,0,0,0,92.19
+Lucknow,Sultanpur Road,Residential,460,80,15.3,0,0,0,15.19
+Lucknow,Sultanpur Road,Residential,1232,80,19.5,0,1,0,41.56
+Lucknow,Indira Nagar,Agricultural,2521,30,20.6,0,1,0,35.97
+Jaipur,Mansarovar,Agricultural,5319,80,7.5,0,1,0,101.96
+Gurugram,Sohna Road,Commercial,1238,40,13.8,1,1,0,223.62
+Noida,Greater Noida West,Commercial,3505,80,15.8,0,1,0,326.59
+Noida,Sector 18,Industrial,2135,12,24.9,0,1,1,271.43
+Pune,Baner,Agricultural,2774,20,9.5,0,1,0,114.86
+Noida,Greater Noida West,Residential,3322,60,19.9,0,1,1,189.08
+Delhi,Saket,Agricultural,1560,12,24.6,0,1,0,91.87
+Gurugram,Golf Course Road,Residential,494,60,31.9,1,0,1,171.62
+Delhi,Rohini,Commercial,1082,30,8.9,1,1,0,268.31
+Gurugram,Golf Course Road,Agricultural,3604,30,18.3,1,1,0,313.95
+Jaipur,Jagatpura,Residential,1129,60,30.8,1,1,0,52.68
+Lucknow,Aliganj,Residential,487,40,11.8,0,0,0,24.14
+Delhi,Rohini,Residential,554,12,21.8,0,1,0,54.9
+Gurugram,Sohna Road,Agricultural,2713,80,10.4,1,1,0,100.65
+Noida,Greater Noida West,Residential,1455,30,18.1,0,0,0,58.53
+Pune,Hinjewadi,Agricultural,2154,80,17.3,1,0,0,59.26
+Lucknow,Aliganj,Commercial,2802,30,23.0,0,1,0,197.74
+Jaipur,Mansarovar,Residential,3725,30,1.5,0,1,0,252.88
+Lucknow,Gomti Nagar,Commercial,2181,20,26.7,0,1,0,203.08
+Delhi,Saket,Residential,2082,20,21.0,0,1,0,557.53
+Jaipur,Ajmer Road,Residential,1448,80,24.5,0,0,0,42.59
+Jaipur,Vaishali Nagar,Residential,1592,60,1.8,0,1,0,157.96
+Pune,Kothrud,Agricultural,5539,80,8.7,1,0,1,278.72
+Jaipur,Vaishali Nagar,Agricultural,1281,30,33.6,0,1,0,18.76
+Lucknow,Indira Nagar,Residential,1183,12,6.8,0,1,0,60.46
+Noida,Sector 18,Commercial,636,20,24.9,0,1,1,151.12
+Lucknow,Indira Nagar,Residential,540,60,20.0,1,1,0,36.22
+Lucknow,Aliganj,Residential,1218,30,25.2,0,1,1,65.87
+Gurugram,Golf Course Road,Agricultural,9240,80,31.4,0,0,0,743.53
+Jaipur,Mansarovar,Residential,2628,20,28.9,0,1,0,128.65
+Noida,Greater Noida West,Residential,941,40,25.9,0,1,0,41.48
+Pune,Baner,Commercial,2922,60,11.4,0,1,0,921.36
+Lucknow,Sultanpur Road,Agricultural,8597,60,34.8,0,1,1,61.26
+Gurugram,Golf Course Road,Agricultural,1958,60,2.9,0,1,1,278.43
+Gurugram,DLF Phase 3,Residential,1171,60,15.9,0,0,0,340.8
+Jaipur,Jagatpura,Industrial,449,60,20.3,0,1,0,19.4
+Lucknow,Aliganj,Commercial,1843,30,12.6,1,1,0,166.49
+Delhi,Dwarka,Residential,899,20,20.5,0,1,1,122.43
+Noida,Sector 18,Residential,3620,80,4.1,1,0,0,863.74
+Noida,Sector 150,Industrial,1953,20,24.7,0,1,0,130.23
+Delhi,Rohini,Residential,1809,80,24.2,1,1,0,266.23
+Gurugram,Manesar,Commercial,1449,80,20.9,0,1,0,163.54
+Noida,Sector 18,Commercial,896,60,21.3,0,1,0,273.13
+Delhi,Dwarka,Commercial,456,60,29.5,1,0,0,95.95
+Jaipur,Mansarovar,Residential,819,80,14.7,0,1,0,67.15
+Pune,Kothrud,Residential,2139,40,24.9,1,1,0,372.62
+Noida,Greater Noida West,Industrial,857,80,21.9,0,1,0,38.14
+Lucknow,Indira Nagar,Residential,1496,12,29.5,0,1,0,64.21
+Noida,Sector 150,Residential,5762,60,3.0,0,1,0,797.91
+Noida,Sector 18,Residential,978,20,21.3,0,0,0,127.55
+Noida,Sector 18,Residential,5902,60,2.7,1,0,0,1194.42
+Pune,Baner,Residential,967,20,23.5,0,1,0,149.1
+Noida,Sector 18,Agricultural,492,30,1.5,1,0,0,25.45
+Jaipur,Vaishali Nagar,Industrial,1878,20,16.2,0,1,0,106.51
+Gurugram,DLF Phase 3,Residential,1894,60,12.2,0,1,0,658.09
+Delhi,Rohini,Industrial,468,20,1.5,0,0,1,54.67
+Lucknow,Aliganj,Agricultural,9200,40,7.9,1,1,0,140.81
+Noida,Sector 18,Commercial,974,40,28.2,0,0,0,227.34
+Pune,Wagholi,Residential,8870,40,16.3,1,1,0,498.1
+Pune,Hinjewadi,Commercial,1161,12,13.7,0,1,0,160.91
+Gurugram,DLF Phase 3,Residential,3643,12,33.5,0,1,0,765.67
+Jaipur,Mansarovar,Residential,886,80,13.6,1,1,0,67.9
+Pune,Kothrud,Residential,939,40,22.1,0,1,0,137.82
+Gurugram,Sohna Road,Residential,3466,40,7.1,0,1,0,419.56
+Pune,Hinjewadi,Residential,4993,12,15.6,0,1,0,379.45
+Lucknow,Aliganj,Residential,581,30,14.2,1,0,0,31.74
+Noida,Sector 62,Industrial,1837,40,32.7,0,1,0,119.12
+Gurugram,Sohna Road,Residential,9842,12,20.5,1,0,0,762.86
+Pune,Kothrud,Agricultural,5229,40,32.5,1,1,0,204.4
+Delhi,Saket,Agricultural,454,30,15.4,0,1,1,33.8
+Lucknow,Sultanpur Road,Residential,8193,30,24.1,0,1,0,207.46
+Pune,Hinjewadi,Commercial,2534,12,25.3,1,1,0,364.74
+Noida,Sector 18,Agricultural,3695,20,13.9,0,1,1,181.19
+Pune,Kothrud,Residential,9644,40,26.2,0,1,0,1382.63
+Lucknow,Aliganj,Agricultural,8896,20,4.7,1,1,0,119.35
+Lucknow,Sultanpur Road,Agricultural,545,80,27.3,1,1,0,5.21
+Noida,Sector 62,Commercial,560,12,21.9,1,1,0,74.87
+Delhi,Saket,Industrial,412,80,20.4,0,1,0,104.59
+Pune,Wagholi,Residential,5519,40,23.3,1,0,0,237.84
+Jaipur,Vaishali Nagar,Residential,5212,80,1.7,1,1,0,550.29
+Jaipur,Mansarovar,Agricultural,5367,12,27.8,0,0,0,53.72
+Gurugram,Manesar,Residential,1154,60,4.2,0,1,0,88.25
+Pune,Baner,Commercial,853,80,17.1,0,1,0,230.6
+Pune,Kothrud,Commercial,5694,60,3.3,0,0,0,1663.43
+Delhi,Saket,Commercial,9193,40,21.8,1,1,0,4630.39
+Noida,Sector 150,Residential,2185,60,22.3,0,0,0,219.06
+Delhi,Dwarka,Residential,3443,40,32.0,0,1,0,390.09
+Lucknow,Indira Nagar,Industrial,918,80,30.9,1,1,0,46.22
+Noida,Sector 62,Residential,4917,20,15.4,0,1,0,444.68
+Gurugram,Golf Course Road,Residential,2709,20,32.6,0,0,0,675.09
+Delhi,Saket,Residential,493,20,34.3,1,1,0,104.05
+Delhi,Dwarka,Commercial,4971,12,10.4,0,1,0,1029.44
+Gurugram,Golf Course Road,Residential,1148,60,22.9,0,0,0,382.28
+Noida,Sector 18,Residential,422,40,10.4,0,1,0,92.04
+Gurugram,Manesar,Agricultural,9628,80,8.8,0,1,0,178.73
+Gurugram,Sohna Road,Residential,9571,20,2.5,1,1,0,1083.71
+Noida,Greater Noida West,Commercial,472,80,34.5,1,0,0,31.5
+Lucknow,Aliganj,Residential,5765,12,28.7,1,1,0,242.67
+Delhi,Rohini,Agricultural,5637,40,23.2,0,1,0,157.98
+Gurugram,Golf Course Road,Agricultural,9176,40,4.7,0,1,1,976.93
+Pune,Kothrud,Residential,855,30,23.0,0,0,0,113.72
+Jaipur,Mansarovar,Residential,8304,60,8.4,0,1,0,564.34
+Jaipur,Ajmer Road,Residential,5638,40,5.3,0,0,0,203.49
+Gurugram,Manesar,Residential,1134,80,20.8,0,0,0,72.04
+Lucknow,Sultanpur Road,Residential,5616,60,7.2,0,1,0,207.81
+Delhi,Saket,Commercial,422,12,1.9,1,1,0,237.93
+Pune,Hinjewadi,Commercial,1124,80,23.4,1,1,0,194.18
+Lucknow,Aliganj,Agricultural,5640,20,21.8,1,1,0,76.22
+Lucknow,Indira Nagar,Residential,1132,60,5.7,0,1,0,68.01
+Lucknow,Sultanpur Road,Residential,2046,60,18.2,0,1,0,68.84
+Lucknow,Aliganj,Residential,1618,80,7.5,1,1,0,107.83
+Jaipur,Ajmer Road,Residential,8159,80,15.4,1,1,0,411.16
+Lucknow,Gomti Nagar,Agricultural,3595,12,7.5,1,1,0,67.54
+Delhi,Rohini,Agricultural,9479,12,9.4,0,1,0,247.47
+Lucknow,Sultanpur Road,Agricultural,1966,12,30.4,0,1,0,11.44
+Delhi,Narela,Agricultural,8845,80,23.1,0,1,0,113.92
+Gurugram,DLF Phase 3,Commercial,2467,20,21.6,0,1,1,1078.55
+Gurugram,DLF Phase 3,Agricultural,1611,20,1.4,1,1,0,140.52
+Noida,Greater Noida West,Residential,5490,12,13.9,0,1,0,280.48
+Delhi,Dwarka,Residential,443,80,20.2,0,1,0,71.18
+Delhi,Saket,Residential,8188,40,3.2,0,1,0,2698.23
+Delhi,Dwarka,Residential,8544,30,5.7,0,1,0,1247.14
+Gurugram,Golf Course Road,Commercial,3393,40,9.2,0,1,0,2391.09
+Pune,Hinjewadi,Residential,3556,12,1.1,0,1,0,322.21
+Gurugram,Golf Course Road,Commercial,935,30,32.4,0,1,0,474.49
+Noida,Sector 18,Residential,633,12,24.4,0,0,0,89.35
+Pune,Kothrud,Residential,2886,20,15.1,0,1,1,513.56
+Noida,Greater Noida West,Agricultural,8263,30,13.7,1,1,0,125.39
+Delhi,Rohini,Commercial,2649,20,21.9,0,1,0,462.41
+Delhi,Dwarka,Agricultural,2685,30,27.2,1,1,1,98.7
+Gurugram,Sohna Road,Agricultural,1965,30,11.2,1,0,1,49.43
+Jaipur,Vaishali Nagar,Commercial,5701,12,8.2,0,0,0,535.57
+Noida,Sector 18,Residential,897,12,28.6,0,0,0,112.67
+Delhi,Rohini,Industrial,420,30,11.9,0,1,0,44.15
+Pune,Hinjewadi,Agricultural,1255,40,27.3,1,0,0,22.68
+Gurugram,Manesar,Residential,4955,80,26.5,1,1,0,323.86
+Noida,Sector 62,Industrial,1234,80,30.3,0,0,0,73.75
+Delhi,Narela,Agricultural,421,12,12.8,0,0,0,4.51
+Pune,Baner,Agricultural,828,30,11.3,0,1,1,37.87
+Noida,Sector 18,Residential,1116,30,11.4,0,0,0,178.04
+Lucknow,Aliganj,Agricultural,1454,12,30.1,0,0,0,11.52
+Gurugram,Manesar,Residential,2786,30,21.0,0,1,1,156.46
+Pune,Kothrud,Residential,3280,80,14.3,0,1,0,712.5
+Delhi,Saket,Commercial,551,80,12.5,0,0,0,244.87
+Pune,Wagholi,Commercial,483,80,28.3,0,0,1,38.5
+Jaipur,Ajmer Road,Commercial,5403,20,23.0,0,0,1,221.16
+Jaipur,Vaishali Nagar,Agricultural,9224,20,20.4,0,1,0,152.78
+Lucknow,Gomti Nagar,Residential,1930,40,26.9,1,0,1,120.96
+Delhi,Dwarka,Commercial,1541,20,8.2,0,1,0,394.28
+Pune,Wagholi,Agricultural,461,20,14.3,0,1,0,5.83
+Noida,Sector 150,Residential,5777,30,8.0,1,0,0,599.54
+Pune,Wagholi,Residential,3557,80,15.2,1,1,1,262.92
+Jaipur,Mansarovar,Commercial,1405,80,7.0,0,0,1,164.98
+Lucknow,Sultanpur Road,Commercial,820,40,9.5,0,1,0,44.71
+Jaipur,Vaishali Nagar,Residential,1381,30,33.3,0,1,0,89.54
+Noida,Sector 18,Agricultural,9179,20,28.1,1,1,0,363.53
+Lucknow,Gomti Nagar,Residential,583,60,18.3,1,1,0,45.19
+Noida,Greater Noida West,Residential,3514,60,29.8,1,0,0,158.74
+Delhi,Saket,Residential,954,30,27.9,0,0,0,193.07
+Pune,Kothrud,Residential,8226,20,12.1,1,1,0,1482.31
+Pune,Kothrud,Residential,1526,12,4.3,1,1,0,322.54
+Pune,Wagholi,Commercial,1155,80,26.5,0,1,0,97.3
+Noida,Sector 150,Residential,5695,30,1.0,0,1,0,730.19
+Pune,Wagholi,Commercial,1155,20,26.3,1,0,0,73.78
+Noida,Sector 150,Commercial,9742,12,24.0,0,1,0,1243.14
+Pune,Kothrud,Residential,1294,80,33.7,0,1,0,202.69
+Noida,Sector 18,Residential,5119,80,6.5,1,1,1,1318.9
+Lucknow,Gomti Nagar,Residential,897,80,9.9,1,1,0,96.52
+Pune,Hinjewadi,Residential,9451,20,3.3,0,1,0,844.04
+Delhi,Narela,Agricultural,2123,80,5.2,0,0,0,35.06
+Gurugram,Golf Course Road,Residential,8829,60,25.6,1,1,0,3655.76
+Lucknow,Gomti Nagar,Residential,4944,20,34.3,1,1,0,314.39
+Noida,Sector 62,Commercial,2134,30,22.7,1,1,0,277.54
+Gurugram,Manesar,Residential,3768,40,3.1,0,1,0,243.74
+Gurugram,Sohna Road,Residential,8667,80,10.4,1,1,0,1180.66
+Gurugram,Manesar,Residential,851,40,1.5,0,1,0,56.84
+Delhi,Dwarka,Agricultural,3359,40,18.6,0,1,0,107.13
+Lucknow,Aliganj,Residential,3883,40,26.0,1,1,1,219.15
+Pune,Wagholi,Residential,5375,80,23.8,0,1,0,295.4
+Lucknow,Sultanpur Road,Residential,2150,20,2.8,0,1,0,74.19
+Pune,Kothrud,Residential,966,30,10.3,1,0,0,150.26
+Lucknow,Sultanpur Road,Residential,1227,20,5.2,0,1,0,40.71
+Gurugram,DLF Phase 3,Agricultural,428,60,33.7,1,1,0,31.29
+Jaipur,Jagatpura,Commercial,3413,80,6.8,1,1,0,324.34
+Delhi,Narela,Industrial,1392,20,15.6,0,1,1,64.16
+Gurugram,DLF Phase 3,Commercial,901,12,14.4,0,1,1,440.38
+Noida,Sector 18,Commercial,9545,80,8.4,1,1,0,3576.57
+Pune,Wagholi,Residential,9360,80,10.0,0,1,0,529.37
+Gurugram,Golf Course Road,Residential,1238,20,31.1,1,1,0,403.4
+Gurugram,Sohna Road,Residential,5587,30,20.1,0,1,0,467.11
+Jaipur,Ajmer Road,Residential,561,12,8.6,0,1,0,19.56
+Gurugram,Manesar,Residential,8298,60,11.2,1,1,0,621.25
+Delhi,Dwarka,Agricultural,1225,12,13.0,0,1,1,44.09
+Pune,Baner,Residential,9392,60,11.3,1,1,0,1735.14
+Gurugram,Sohna Road,Agricultural,5719,20,32.6,0,1,0,96.6
+Lucknow,Sultanpur Road,Agricultural,5035,30,10.1,0,1,0,38.73
+Jaipur,Vaishali Nagar,Commercial,2498,30,22.6,0,1,0,278.23
+Gurugram,Sohna Road,Agricultural,551,80,33.2,0,1,0,13.22
+Delhi,Saket,Agricultural,2003,30,8.7,0,0,0,133.26
+Pune,Baner,Industrial,2807,60,13.8,0,1,0,400.85
+Jaipur,Ajmer Road,Residential,983,12,3.1,0,1,0,39.4
+Lucknow,Indira Nagar,Industrial,5252,40,1.1,1,0,0,251.87
+Jaipur,Jagatpura,Residential,1818,80,20.8,0,1,0,82.21
+Noida,Sector 62,Agricultural,414,40,10.8,1,0,0,10.2
+Lucknow,Sultanpur Road,Residential,2448,40,2.2,1,1,0,94.05
+Jaipur,Vaishali Nagar,Commercial,9102,12,15.4,1,1,0,1027.19
+Jaipur,Vaishali Nagar,Residential,543,40,21.8,0,0,0,36.77
+Pune,Baner,Agricultural,864,30,26.2,1,1,0,32.61
+Jaipur,Jagatpura,Commercial,1291,12,26.7,0,1,0,73.12
+Delhi,Rohini,Residential,1453,30,1.1,0,1,0,215.79
+Noida,Greater Noida West,Residential,3785,40,30.1,1,1,0,154.24
+Noida,Sector 18,Commercial,2187,60,20.9,0,1,1,689.28
+Noida,Greater Noida West,Agricultural,1159,20,28.9,1,1,0,12.83
+Delhi,Dwarka,Agricultural,1574,12,25.9,0,1,1,50.04
+Noida,Sector 62,Residential,8643,80,9.7,0,1,1,1028.59
+Delhi,Narela,Agricultural,2957,60,1.6,0,1,0,53.48
+Lucknow,Aliganj,Agricultural,3312,40,21.5,0,1,1,45.27
+Delhi,Rohini,Residential,2756,60,11.3,1,0,0,350.37
+Delhi,Narela,Residential,630,80,33.2,1,1,0,35.1
+Delhi,Narela,Residential,840,40,24.6,0,0,0,36.19
+Jaipur,Vaishali Nagar,Residential,2719,40,26.8,0,1,1,188.64
+Delhi,Saket,Commercial,1092,30,27.7,0,1,0,425.82
+Jaipur,Mansarovar,Residential,858,60,11.2,0,1,0,61.42
+Pune,Baner,Residential,1491,80,25.5,0,1,0,272.87
+Gurugram,Sohna Road,Agricultural,658,12,20.7,1,1,0,13.46
+Jaipur,Vaishali Nagar,Residential,3959,12,12.3,0,0,0,240.64
+Lucknow,Indira Nagar,Residential,9336,30,2.5,0,1,0,616.05
+Jaipur,Jagatpura,Residential,2094,80,28.4,0,1,1,98.71
+Pune,Wagholi,Commercial,3940,20,4.2,0,1,0,326.2
+Lucknow,Sultanpur Road,Industrial,2006,20,21.6,1,1,0,47.4
+Gurugram,Manesar,Residential,1935,60,32.8,0,1,0,105.58
+Delhi,Narela,Agricultural,603,60,21.5,0,1,0,9.58
+Lucknow,Aliganj,Residential,489,80,12.9,1,0,0,31.73
+Noida,Sector 18,Industrial,624,12,34.6,1,0,0,59.57
+Pune,Wagholi,Residential,1364,30,14.4,0,1,0,75.63
+Lucknow,Sultanpur Road,Agricultural,3887,40,34.7,0,0,1,21.89
+Pune,Baner,Agricultural,2045,60,32.7,1,0,1,79.85
+Pune,Wagholi,Residential,2848,60,29.2,1,1,1,142.21
+Delhi,Dwarka,Residential,3923,80,29.0,1,1,1,645.7
+Gurugram,Sohna Road,Agricultural,2574,40,22.9,0,1,0,51.66
+Pune,Hinjewadi,Agricultural,1257,12,4.0,0,1,0,31.19
+Pune,Wagholi,Residential,1540,12,17.9,1,0,0,65.47
+Delhi,Narela,Commercial,5024,60,14.8,0,1,0,453.82
+Noida,Sector 62,Residential,5126,20,27.0,0,1,0,371.34
+Noida,Sector 150,Agricultural,927,60,10.6,1,0,0,25.68
+Jaipur,Ajmer Road,Residential,910,60,9.0,1,1,0,40.96
+Delhi,Saket,Residential,1537,40,16.9,0,1,0,440.2
+Pune,Hinjewadi,Industrial,1142,12,6.2,0,1,1,96.28
+Pune,Hinjewadi,Agricultural,1223,12,17.4,0,0,0,20.93
+Pune,Baner,Residential,8283,12,33.6,0,1,0,1023.55
+Lucknow,Aliganj,Residential,2552,60,18.9,1,1,0,158.62
+Gurugram,Golf Course Road,Residential,9806,60,22.9,0,0,0,3560.98
+Lucknow,Sultanpur Road,Residential,639,80,4.7,1,1,0,29.67
+Noida,Sector 150,Commercial,491,12,17.7,1,1,0,88.22
+Pune,Baner,Residential,632,80,25.4,0,0,0,95.38
+Pune,Kothrud,Agricultural,1580,60,15.4,0,1,0,81.37
+Lucknow,Aliganj,Agricultural,1598,12,10.6,1,1,0,19.95
+Noida,Sector 150,Commercial,8233,30,12.8,1,1,0,1614.79
+Gurugram,Manesar,Agricultural,1208,60,11.6,1,1,0,23.44
+Pune,Kothrud,Residential,9808,12,11.4,1,1,0,1845.21
+Pune,Wagholi,Residential,437,20,21.8,1,1,0,23.56
+Lucknow,Indira Nagar,Agricultural,634,40,32.5,1,1,0,7.47
+Pune,Kothrud,Agricultural,2180,20,2.0,1,1,0,110.95
+Delhi,Rohini,Residential,3259,30,30.4,1,1,0,407.26
+Delhi,Narela,Residential,979,20,19.7,1,1,0,59.94
+Pune,Hinjewadi,Residential,427,20,4.8,1,1,0,52.07
+Jaipur,Mansarovar,Agricultural,2909,20,31.9,0,1,0,29.11
+Pune,Hinjewadi,Residential,1531,12,28.4,1,0,0,112.66
+Jaipur,Mansarovar,Residential,943,80,24.3,0,1,0,64.23
+Delhi,Saket,Residential,4890,12,5.7,0,0,0,1196.07
+Delhi,Rohini,Residential,9505,80,17.3,0,1,0,1212.4
+Jaipur,Mansarovar,Residential,1923,40,25.8,0,1,0,98.88
+Lucknow,Sultanpur Road,Residential,3601,60,8.1,1,1,0,142.7
+Lucknow,Aliganj,Commercial,1895,40,18.6,0,0,0,135.59
+Delhi,Narela,Agricultural,2164,20,5.7,0,1,0,34.88
+Jaipur,Vaishali Nagar,Agricultural,1383,30,33.4,0,0,0,17.93
+Gurugram,Sohna Road,Residential,1371,40,14.2,0,1,0,149.75
+Noida,Sector 62,Residential,2047,12,4.0,0,0,1,184.05
+Pune,Kothrud,Residential,1911,80,23.6,1,0,0,291.4
+Noida,Sector 18,Residential,1431,40,5.3,1,0,0,299.66
+Gurugram,Golf Course Road,Agricultural,1193,20,25.7,0,1,0,93.36
+Gurugram,Manesar,Residential,3434,20,23.1,0,1,1,184.37
+Noida,Sector 62,Residential,2809,20,15.8,0,0,0,212.62
+Jaipur,Mansarovar,Agricultural,936,80,26.8,0,0,1,11.53
+Jaipur,Jagatpura,Commercial,435,30,28.3,0,1,0,27.45
+Delhi,Rohini,Commercial,1393,40,4.3,1,1,0,367.95
+Pune,Wagholi,Residential,5823,12,18.0,1,1,0,295.63
+Delhi,Dwarka,Commercial,1183,12,29.0,0,1,1,233.58
+Jaipur,Mansarovar,Agricultural,2648,60,26.9,1,1,0,47.28
+Pune,Baner,Agricultural,867,30,2.3,0,1,0,38.8
+Gurugram,Sohna Road,Commercial,5561,80,23.0,0,1,0,887.73
+Delhi,Rohini,Agricultural,964,20,3.9,0,1,0,28.48
+Delhi,Saket,Residential,9728,80,17.4,0,1,0,3092.04
+Pune,Wagholi,Commercial,2579,80,28.8,0,1,0,219.65
+Delhi,Rohini,Industrial,558,30,26.8,0,0,0,41.05
+Gurugram,Sohna Road,Commercial,2504,30,34.5,0,1,0,322.02
+Jaipur,Vaishali Nagar,Residential,1110,12,1.7,0,1,0,86.35
+Gurugram,DLF Phase 3,Industrial,487,30,17.5,1,1,0,121.29
+Gurugram,Golf Course Road,Residential,1188,40,4.6,1,1,0,508.63
+Jaipur,Vaishali Nagar,Residential,5633,12,28.0,0,0,0,282.32
+Gurugram,Golf Course Road,Residential,577,12,26.9,0,0,0,157.31
+Lucknow,Aliganj,Industrial,2179,20,18.4,0,0,0,66.14
+Gurugram,Sohna Road,Agricultural,455,60,8.4,0,0,0,12.14
+Jaipur,Jagatpura,Residential,1363,30,19.7,0,1,0,62.76
+Gurugram,Golf Course Road,Agricultural,1602,20,6.9,1,1,0,184.71
+Pune,Baner,Residential,4984,40,10.5,1,1,0,844.51
+Noida,Greater Noida West,Commercial,897,40,23.6,0,1,0,73.36
+Lucknow,Aliganj,Commercial,8261,20,3.5,1,1,1,858.98
+Gurugram,Golf Course Road,Residential,441,12,31.0,1,1,0,128.98
+Gurugram,Golf Course Road,Agricultural,576,30,17.4,1,1,0,54.14
+Noida,Sector 18,Residential,3622,20,9.8,1,0,0,630.51
+Pune,Wagholi,Agricultural,1863,60,18.5,0,1,0,23.95
+Jaipur,Jagatpura,Residential,434,80,2.8,1,1,1,30.98
+Noida,Sector 18,Residential,657,60,2.0,0,0,0,131.31
+Lucknow,Indira Nagar,Industrial,1133,20,18.4,1,1,1,56.5
+Gurugram,Manesar,Residential,3332,20,4.8,0,1,0,205.18
+Noida,Sector 62,Agricultural,1937,30,5.0,0,1,0,50.93
+Lucknow,Indira Nagar,Commercial,623,60,16.7,0,1,1,70.96
+Jaipur,Mansarovar,Commercial,814,12,1.5,1,1,1,103.71
+Delhi,Rohini,Agricultural,1858,60,15.2,0,1,0,63.33
+Delhi,Saket,Residential,2586,60,29.4,0,1,0,728.95
+Lucknow,Aliganj,Residential,2650,60,8.1,0,1,1,180.14
+Noida,Sector 62,Commercial,553,60,26.1,0,1,0,79.09
+Delhi,Narela,Residential,903,30,32.3,0,1,0,41.24
+Noida,Sector 150,Commercial,2048,30,14.9,0,0,0,307.62
+Lucknow,Sultanpur Road,Residential,2744,60,6.1,0,1,1,100.85
+Lucknow,Indira Nagar,Agricultural,3296,30,4.4,0,1,0,46.85
+Pune,Baner,Commercial,1865,40,17.7,0,1,1,527.62
+Pune,Wagholi,Residential,584,40,8.5,0,1,1,36.12
+Jaipur,Mansarovar,Agricultural,9677,20,28.7,1,1,0,152.41
+Gurugram,Sohna Road,Agricultural,9838,60,29.8,0,1,0,213.91
+Jaipur,Jagatpura,Residential,8285,40,33.3,0,1,1,318.18
+Noida,Sector 150,Commercial,1499,40,9.6,0,1,0,296.88
+Gurugram,Golf Course Road,Residential,2170,12,34.7,1,1,0,683.59
+Lucknow,Indira Nagar,Agricultural,1114,80,17.7,0,1,0,18.51
+Lucknow,Gomti Nagar,Commercial,405,80,6.4,0,1,0,62.02
+Lucknow,Sultanpur Road,Residential,1517,40,15.6,0,1,0,42.39
+Noida,Sector 150,Residential,594,30,15.9,1,1,1,80.03
+Noida,Greater Noida West,Residential,1944,40,32.6,0,0,0,75.29
+Lucknow,Sultanpur Road,Agricultural,1621,12,23.5,1,0,0,9.46
+Pune,Hinjewadi,Commercial,1805,60,26.9,0,1,0,257.27
+Gurugram,Golf Course Road,Agricultural,2002,30,14.7,1,0,0,175.5
+Lucknow,Aliganj,Commercial,8395,60,9.7,1,1,0,874.99
+Jaipur,Jagatpura,Residential,476,40,14.4,1,0,1,21.32
+Noida,Sector 18,Agricultural,2488,12,30.7,0,1,0,82.86
+Jaipur,Jagatpura,Agricultural,3574,60,33.7,0,1,0,36.79
+Pune,Baner,Commercial,408,20,22.0,1,1,0,98.67
+Delhi,Narela,Residential,838,60,12.2,1,1,1,63.6
+Gurugram,Golf Course Road,Agricultural,592,80,5.5,1,1,0,82.8
+Noida,Sector 62,Residential,8913,80,25.6,0,1,0,864.62
+Pune,Kothrud,Residential,417,20,1.0,1,1,0,82.57
+Gurugram,Manesar,Industrial,9832,80,10.1,1,1,0,689.04
+Noida,Sector 150,Commercial,458,40,27.7,0,0,1,61.48
+Delhi,Saket,Residential,1305,80,29.8,0,1,0,389.09
+Noida,Sector 18,Agricultural,5776,80,22.5,1,1,0,317.63
+Delhi,Dwarka,Agricultural,3464,60,31.1,0,1,0,113.52
+Jaipur,Vaishali Nagar,Commercial,9843,60,31.3,1,0,1,1097.25
+Gurugram,Manesar,Agricultural,2875,80,8.0,1,1,0,67.07
+Noida,Sector 62,Residential,2089,40,15.1,1,1,0,233.36
+Pune,Hinjewadi,Agricultural,5077,60,20.2,0,1,1,138.09
+Lucknow,Sultanpur Road,Residential,8947,60,22.7,1,1,1,330.91
+Delhi,Saket,Agricultural,2106,12,17.5,0,1,0,132.49
+Gurugram,DLF Phase 3,Industrial,2437,12,32.0,1,1,0,505.78
+Pune,Wagholi,Commercial,1260,30,33.8,1,1,0,83.27
+Pune,Kothrud,Residential,2079,12,34.8,1,0,0,239.86
+Delhi,Saket,Residential,3447,60,17.4,1,0,0,994.38
+Lucknow,Aliganj,Agricultural,3822,12,20.3,0,1,0,45.3
+Lucknow,Gomti Nagar,Residential,2564,80,1.7,1,1,0,254.01
+Pune,Kothrud,Agricultural,476,20,13.3,0,0,0,17.2
+Pune,Baner,Residential,5596,40,4.2,0,1,1,915.44
+Delhi,Saket,Residential,964,40,33.9,1,1,0,284.92
+Pune,Hinjewadi,Commercial,3242,80,15.9,0,1,0,517.03
+Jaipur,Ajmer Road,Residential,1967,60,2.5,0,0,0,76.5
+Noida,Greater Noida West,Agricultural,980,20,12.2,0,1,1,12.46
+Noida,Sector 62,Agricultural,5148,12,32.3,0,1,0,85.42
+Pune,Kothrud,Residential,547,40,24.6,0,0,0,81.17
+Lucknow,Gomti Nagar,Agricultural,2769,12,13.5,0,1,0,44.06
+Gurugram,Golf Course Road,Commercial,2772,60,15.5,1,1,0,2212.06
+Lucknow,Gomti Nagar,Industrial,2076,12,25.4,1,1,0,100.25
+Jaipur,Jagatpura,Industrial,8153,80,25.7,1,0,1,306.37
+Noida,Greater Noida West,Residential,3316,80,5.6,0,1,0,238.99
+Jaipur,Vaishali Nagar,Agricultural,1897,40,14.4,0,0,1,34.45
+Jaipur,Vaishali Nagar,Residential,2913,80,3.8,0,1,0,276.51
+Jaipur,Jagatpura,Agricultural,2001,20,11.8,0,1,0,22.16
+Gurugram,Sohna Road,Residential,1564,20,10.8,0,1,0,147.99
+Gurugram,DLF Phase 3,Agricultural,944,80,18.6,1,1,0,94.18
+Delhi,Dwarka,Residential,830,40,23.3,0,1,1,116.66
+Noida,Sector 150,Agricultural,3864,40,34.8,1,1,0,106.55
+Gurugram,Sohna Road,Residential,921,60,11.8,1,1,0,117.82
+Delhi,Dwarka,Residential,471,60,1.4,0,1,0,83.11
+Gurugram,Sohna Road,Residential,1822,12,32.7,0,1,0,139.26
+Pune,Wagholi,Commercial,905,30,22.3,1,0,0,63.37
+Noida,Sector 18,Residential,1146,30,1.9,1,1,0,279.34
+Delhi,Narela,Agricultural,9827,20,30.4,0,1,1,118.88
+Pune,Kothrud,Commercial,1252,80,8.2,1,0,1,403.82
+Pune,Kothrud,Residential,3633,20,29.7,0,1,1,525.67
+Gurugram,Sohna Road,Residential,1086,80,29.2,0,1,0,105.15
+Gurugram,Manesar,Residential,5489,20,1.0,1,1,0,392.34
+Pune,Hinjewadi,Residential,2718,40,5.5,0,0,0,243.97
+Noida,Greater Noida West,Agricultural,1816,80,8.0,1,0,1,30.06
+Delhi,Dwarka,Commercial,3578,20,16.0,0,1,0,786.75
+Lucknow,Indira Nagar,Industrial,3591,60,31.6,0,0,0,120.94
+Delhi,Dwarka,Industrial,1224,60,34.2,0,1,0,121.88
+Noida,Greater Noida West,Agricultural,2886,12,28.3,1,0,0,29.78
+Pune,Hinjewadi,Residential,427,40,12.1,0,1,0,44.49
+Jaipur,Vaishali Nagar,Residential,1975,40,4.8,0,1,0,179.19
+Noida,Greater Noida West,Residential,3880,12,32.6,0,1,0,147.86
+Gurugram,DLF Phase 3,Residential,5217,20,10.5,0,1,0,1574.24
+Noida,Sector 18,Residential,3687,20,24.9,0,1,0,585.41
+Noida,Greater Noida West,Residential,3252,20,33.2,1,1,0,152.3
+Jaipur,Jagatpura,Commercial,2123,12,9.5,0,1,0,145.77
+Jaipur,Vaishali Nagar,Residential,848,60,33.7,1,1,0,62.92
+Lucknow,Sultanpur Road,Industrial,455,40,21.6,0,1,1,9.82
+Jaipur,Ajmer Road,Residential,855,40,20.1,0,1,0,29.06
+Noida,Sector 62,Commercial,1626,20,27.6,1,1,0,217.7
+Delhi,Dwarka,Commercial,2779,30,23.1,1,0,1,541.17
+Gurugram,DLF Phase 3,Commercial,2759,30,10.1,0,1,0,1423.08
+Pune,Baner,Residential,3552,40,30.5,0,0,0,406.29
+Noida,Sector 150,Commercial,421,60,9.2,1,0,0,81.72
+Jaipur,Jagatpura,Industrial,5052,80,11.3,1,1,1,246.81
+Noida,Sector 18,Commercial,586,12,5.6,1,1,1,213.52
+Lucknow,Indira Nagar,Agricultural,2776,12,4.2,0,0,0,36.53
+Gurugram,Sohna Road,Residential,417,30,23.9,0,1,0,35.74
+Lucknow,Sultanpur Road,Commercial,4871,80,22.0,0,1,0,259.82
+Delhi,Rohini,Residential,2892,80,3.4,0,1,0,508.32
+Delhi,Dwarka,Commercial,3485,80,2.7,0,1,0,1020.52
+Jaipur,Vaishali Nagar,Residential,548,12,18.3,0,1,0,35.43
+Gurugram,DLF Phase 3,Commercial,1225,20,12.9,0,0,0,507.88
+Delhi,Dwarka,Residential,3826,20,24.0,0,1,0,452.38
+Delhi,Narela,Industrial,5751,40,7.1,0,0,0,249.93
+Gurugram,DLF Phase 3,Agricultural,472,80,33.3,0,0,1,32.86
+Gurugram,Manesar,Residential,476,30,2.8,0,1,0,34.96
+Gurugram,Manesar,Commercial,1430,30,3.0,1,1,1,167.28
+Noida,Sector 62,Residential,595,30,18.5,0,1,0,56.25
+Pune,Baner,Industrial,2139,20,20.9,0,1,0,243.64
+Pune,Baner,Agricultural,2672,40,9.9,1,0,0,109.14
+Gurugram,DLF Phase 3,Agricultural,5388,40,32.2,1,0,0,306.5
+Delhi,Narela,Agricultural,1084,20,28.9,0,1,0,12.96
+Gurugram,Manesar,Agricultural,5914,30,18.4,0,1,0,78.65
+Pune,Hinjewadi,Residential,2451,60,24.8,1,1,0,207.61
+Noida,Sector 18,Agricultural,441,30,3.7,0,1,0,19.24
+Delhi,Dwarka,Commercial,9074,30,7.1,0,1,0,2204.91
+Delhi,Saket,Agricultural,2016,60,14.7,0,1,0,159.65
+Gurugram,Sohna Road,Industrial,1615,30,9.3,1,1,0,149.28
+Jaipur,Mansarovar,Residential,1467,20,20.8,1,1,0,92.59
+Jaipur,Jagatpura,Residential,5151,60,20.7,1,1,0,273.38
+Noida,Sector 18,Residential,599,80,8.5,1,1,0,166.75
+Lucknow,Indira Nagar,Residential,1855,20,24.3,0,0,0,79.32
+Delhi,Narela,Commercial,1970,60,26.1,1,0,1,177.16
+Delhi,Dwarka,Industrial,3871,80,17.2,0,0,0,473.67
+Noida,Sector 62,Residential,3719,30,7.7,0,0,0,327.3
+Noida,Sector 62,Residential,441,40,24.3,1,1,1,46.99
+Pune,Kothrud,Residential,1997,30,25.5,1,1,0,338.14
+Pune,Wagholi,Residential,549,80,4.1,0,1,0,40.74
+Lucknow,Gomti Nagar,Industrial,627,20,22.8,1,1,0,32.24
+Noida,Sector 62,Commercial,3671,80,10.9,1,1,0,750.52
+Lucknow,Indira Nagar,Residential,2484,40,4.2,1,0,1,177.75
+Jaipur,Mansarovar,Residential,8105,40,13.9,0,0,0,450.96
+Delhi,Rohini,Residential,1638,30,8.3,1,0,0,202.0
+Noida,Sector 18,Residential,5398,30,33.9,1,0,1,756.6
+Lucknow,Sultanpur Road,Industrial,2101,80,25.9,1,0,0,51.6
+Lucknow,Sultanpur Road,Residential,436,40,9.2,0,0,0,11.77
+Pune,Baner,Residential,1231,80,26.9,0,1,1,240.77
+Gurugram,DLF Phase 3,Residential,1235,12,14.3,0,1,1,369.47
+Jaipur,Vaishali Nagar,Industrial,1161,60,19.2,1,0,0,70.94
+Pune,Hinjewadi,Residential,2553,80,23.8,0,0,0,213.96
+Noida,Sector 18,Residential,1479,80,26.7,0,1,0,292.63
+Noida,Sector 18,Commercial,3871,20,32.3,0,1,0,936.5
+Jaipur,Ajmer Road,Commercial,9468,80,23.0,1,1,0,574.88
+Lucknow,Indira Nagar,Residential,5586,20,10.6,1,1,0,361.68
+Noida,Sector 18,Residential,2119,12,34.6,1,0,0,275.56
+Noida,Sector 150,Residential,2842,12,30.4,0,1,1,276.02
+Gurugram,Golf Course Road,Residential,1512,40,31.3,0,1,0,560.83
+Delhi,Narela,Commercial,455,20,23.6,1,0,0,32.91
+Gurugram,Sohna Road,Residential,1230,40,30.6,0,1,0,108.61
